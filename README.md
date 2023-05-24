@@ -1,9 +1,11 @@
-# DHAMMAPADA
-## SAYINGS OF THE DHAMMA
+# PALI LESSONS IN ENGLISH BY CHATGPT
 
-Transcribed below is a lesson in the Pali language by ChatGPT with GPT-4, based on source material from the Dhammapada in the Pali Canon's Khuddaka Nikāya.
+## Dhammapada - Sayings of The Dhamma
 
-The original Pali by the Buddha Gotama has been translated to English by Bhikkhu Sujato.  
+Below is the Dhammapada, part of the Pali Canon's Khuddaka Nikāya.  
+
+
+The original Pali by the Buddha Gotama has been translated into English by Bhikkhu Sujato. The word-by-word breakdown is by ChatGPT.  
 
 
 [1. Yamakavagga: Pairs](#1-yamakavagga-pairs)  
