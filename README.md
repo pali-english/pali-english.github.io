@@ -1,8 +1,27 @@
 # PALI LESSONS IN ENGLISH BY CHATGPT
 
-*Helping people and artificial intelligence learn the ancient Pali language*
+*Helping people and artificial intelligence learn the ancient Pali language*  
 
-Below is the Dhammapada, part of the Pali Canon's Khuddaka Nikāya. The original Pali by the Buddha Gotama has been [translated](https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/dhp) into English by Bhikkhu Sujato. The word-by-word breakdown is provided by [ChatGPT](https://chat.openai.com/) using GPT-4. 
+Below is the [Dhammapada](#dhammapada-sayings-of-the-dhamma), part of the Pali Canon's Khuddaka Nikāya. The original Pali by the Buddha Gotama has been [translated](https://github.com/suttacentral/bilara-data/tree/published/translation/en/sujato/sutta/kn/dhp) into English by Bhikkhu Sujato. The word-by-word breakdown is provided by [ChatGPT](https://chat.openai.com/) using GPT-4.  
+
+**Example ChatGPT Prompt**
+```
+Please translate the following verse word by word:
+
+Manopubbaṅgamā dhammā,
+manoseṭṭhā manomayā;
+Manasā ce paduṭṭhena,
+bhāsati vā karoti vā;
+Tato naṁ dukkhamanveti,
+cakkaṁva vahato padaṁ.
+
+Intention shapes experiences;
+intention is first, they’re made by intention.
+If with corrupt intent
+you speak or act,
+suffering follows you,
+like a wheel, the ox’s foot.
+```
 
 ## Dhammapada: Sayings of The Dhamma
 
