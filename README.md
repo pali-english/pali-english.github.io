@@ -68,6 +68,34 @@ you speak or act,
 suffering follows you,  
 like a wheel, the ox’s foot.  
   
+    Manopubbaṅgamā dhammā:
+        Mano: Mind, intention.
+        Pubbaṅgamā: Preceding, leading, coming first.
+        Dhammā: Phenomena, experiences, states. This word is often used to mean the Buddha's teachings as a whole, but here it seems to mean individual experiences or phenomena.
+
+    Manoseṭṭhā manomayā:
+        Mano: Mind, intention.
+        Seṭṭhā: Best, supreme, foremost.
+        Manomayā: Made by the mind, created by intention.
+
+    Manasā ce paduṭṭhena, bhāsati vā karoti vā:
+        Manasā: With the mind.
+        Ce: If.
+        Paduṭṭhena: Corrupt, impure, defiled.
+        Bhāsati: Speak.
+        Vā: Or.
+        Karoti: Act, do.
+
+    Tato naṁ dukkhamanveti, cakkaṁva vahato padaṁ:
+        Tato: From there, then.
+        Naṁ: Him, you (generic).
+        Dukkham: Suffering, pain.
+        Anveti: Follows.
+        Cakkaṁ: Wheel.
+        Va: Like, just as.
+        Vahato: Carrying, bearing, dragging.
+        Padaṁ: Foot.
+  
 Manopubbaṅgamā dhammā,  
 manoseṭṭhā manomayā;  
 Manasā ce pasannena,  
@@ -82,6 +110,33 @@ you speak or act,
 happiness follows you  
 like a shadow that never leaves.  
   
+    Manopubbaṅgamā dhammā:
+        Mano: Mind, intention.
+        Pubbaṅgamā: Preceding, leading, coming first.
+        Dhammā: Phenomena, experiences, states.
+
+    Manoseṭṭhā manomayā:
+        Mano: Mind, intention.
+        Seṭṭhā: Best, supreme, foremost.
+        Manomayā: Made by the mind, created by intention.
+
+    Manasā ce pasannena, bhāsati vā karoti vā:
+        Manasā: With the mind.
+        Ce: If.
+        Pasannena: Clear, pure, serene.
+        Bhāsati: Speak.
+        Vā: Or.
+        Karoti: Act, do.
+
+    Tato naṁ sukhamanveti, chāyāva anapāyinī:
+        Tato: From there, then.
+        Naṁ: Him, you (generic).
+        Sukham: Happiness, pleasure.
+        Anveti: Follows.
+        Chāyā: Shadow.
+        Va: Like, just as.
+        Anapāyinī: Not departing, not leaving.
+  
 Akkocchi maṁ avadhi maṁ,  
 ajini maṁ ahāsi me;  
 Ye ca taṁ upanayhanti,  
@@ -91,6 +146,26 @@ veraṁ tesaṁ na sammati.
 They beat me, they robbed me!”  
 For those who bear such a grudge,  
 hatred never ends.  
+  
+    Akkocchi maṁ avadhi maṁ, ajini maṁ ahāsi me:
+        Akkocchi: (He/She) abused, insulted.
+        Maṁ: Me.
+        Avadhi: (He/She) struck, hit.
+        Maṁ: Me.
+        Ajini: (He/She) overcame, defeated.
+        Maṁ: Me.
+        Ahāsi: (He/She) robbed, took away.
+        Me: My.
+
+    Ye ca taṁ upanayhanti, veraṁ tesaṁ na sammati:
+        Ye: Those who.
+        Ca: And.
+        Taṁ: That, such.
+        Upanayhanti: Bear, hold onto.
+        Veraṁ: Hatred, enmity.
+        Tesaṁ: Their.
+        Na: Not.
+        Sammati: It fits, is suitable, is right.
   
 Akkocchi maṁ avadhi maṁ,  
 ajini maṁ ahāsi me;  
@@ -102,6 +177,25 @@ They beat me, they robbed me!”
 For those who bear no such grudge,  
 hatred has an end.  
   
+    Akkocchi maṁ avadhi maṁ, ajini maṁ ahāsi me:
+        Akkocchi: (He/She) abused, insulted.
+        Maṁ: Me.
+        Avadhi: (He/She) struck, hit.
+        Maṁ: Me.
+        Ajini: (He/She) overcame, defeated.
+        Maṁ: Me.
+        Ahāsi: (He/She) robbed, took away.
+        Me: My.
+
+    Ye ca taṁ nupanayhanti, veraṁ tesūpasammati:
+        Ye: Those who.
+        Ca: And.
+        Taṁ: That, such.
+        Nupanayhanti: Do not bear, do not hold onto.
+        Veraṁ: Hatred, enmity.
+        Tesū: In them.
+        Upasammati: Ceases, comes to an end.
+  
 Na hi verena verāni,  
 sammantīdha kudācanaṁ;  
 Averena ca sammanti,  
@@ -112,6 +206,23 @@ settled by hate,
 it’s only settled by love:  
 this is an ancient law.  
   
+    Na hi verena verāni, sammantīdha kudācanaṁ:
+        Na: Not.
+        Hi: Indeed, for, because.
+        Verena: By hatred, by enmity.
+        Verāni: Hatreds, enmities.
+        Sammantī: Are settled, are appeased.
+        Idha: Here, in this (world).
+        Kudācanaṁ: At any time, ever.
+
+    Averena ca sammanti, esa dhammo sanantano:
+        Averena: By non-hatred, by love.
+        Ca: And.
+        Sammanti: Are settled, are appeased.
+        Esa: This.
+        Dhammo: Law, principle, norm.
+        Sanantano: Eternal, ancient.
+  
 Pare ca na vijānanti,  
 mayamettha yamāmase;  
 Ye ca tattha vijānanti,  
@@ -121,6 +232,24 @@ Others don’t understand
 that here we need to be restrained.  
 But those who do understand this,  
 being clever, settle their conflicts.  
+  
+    Pare ca na vijānanti, mayamettha yamāmase:
+        Pare: Others.
+        Ca: And.
+        Na: Not.
+        Vijānanti: Understand, know.
+        Mayam: We.
+        Ettha: Here, in this (situation/place).
+        Yamāmase: Should restrain ourselves, should control ourselves.
+
+    Ye ca tattha vijānanti, tato sammanti medhagā:
+        Ye: Those who.
+        Ca: And.
+        Tattha: There, in that (situation/place).
+        Vijānanti: Understand, know.
+        Tato: Then, from that.
+        Sammanti: Settle, appease.
+        Medhagā: Wise, intelligent, clever.
   
 Subhānupassiṁ viharantaṁ,  
 indriyesu asaṁvutaṁ;  
@@ -136,6 +265,28 @@ lazy, lacking energy:
 Māra strikes them down  
 like the wind, a feeble tree.  
   
+    Subhānupassiṁ viharantaṁ, indriyesu asaṁvutaṁ:
+        Subhānupassiṁ: Contemplating the beautiful.
+        Viharantaṁ: Living, dwelling.
+        Indriyesu: In the faculties (senses).
+        Asaṁvutaṁ: Unrestrained, uncontrolled.
+
+    Bhojanamhi cāmattaññuṁ, kusītaṁ hīnavīriyaṁ:
+        Bhojanamhi: In food, in eating.
+        Cāmattaññuṁ: Immoderate, not knowing the right measure.
+        Kusītaṁ: Lazy, inactive.
+        Hīnavīriyaṁ: Lacking energy, lacking vigor.
+
+    Taṁ ve pasahati māro, vāto rukkhaṁva dubbalaṁ:
+        Taṁ: Him, that.
+        Ve: Indeed.
+        Pasahati: Overcomes, strikes down.
+        Māro: Māra (a personification of temptation and desire, often seen as a kind of demonic figure in Buddhism).
+        Vāto: Wind.
+        Rukkhaṁ: Tree.
+        Va: Like.
+        Dubbalaṁ: Weak, feeble.
+  
 Asubhānupassiṁ viharantaṁ,  
 Indriyesu susaṁvutaṁ;  
 Bhojanamhi ca mattaññuṁ,  
@@ -150,6 +301,29 @@ faithful and energetic:
 Māra cannot strike them down,  
 like the wind, a rocky mountain.  
   
+    Asubhānupassiṁ viharantaṁ, indriyesu susaṁvutaṁ:
+        Asubhānupassiṁ: Contemplating the unattractive, the ugly.
+        Viharantaṁ: Living, dwelling.
+        Indriyesu: In the faculties (senses).
+        Susaṁvutaṁ: Well-restrained, well-controlled.
+
+    Bhojanamhi ca mattaññuṁ, saddhaṁ āraddhavīriyaṁ:
+        Bhojanamhi: In food, in eating.
+        Ca: And.
+        Mattaññuṁ: Knowing the right measure, moderate.
+        Saddhaṁ: Faithful, having faith.
+        Āraddhavīriyaṁ: Having exerted energy, energetic.
+
+    Taṁ ve nappasahati māro, vāto selaṁva pabbataṁ:
+        Taṁ: Him, that.
+        Ve: Indeed.
+        Nappasahati: Does not overcome, does not strike down.
+        Māro: Māra.
+        Vāto: Wind.
+        Selaṁ: Rock.
+        Va: Like.
+        Pabbataṁ: Mountain.
+  
 Anikkasāvo kāsāvaṁ,  
 yo vatthaṁ paridahissati;  
 Apeto damasaccena,  
@@ -159,6 +333,23 @@ One who, not free of stains themselves,
 would wear the robe stained in ocher,  
 bereft of self-control and of truth:  
 they are not worthy of the ocher robe.  
+  
+    Anikkasāvo kāsāvaṁ, yo vatthaṁ paridahissati:
+        Anikkasāvo: Not purged of stains, not free of impurities.
+        Kāsāvaṁ: Ocher, referring to the robe of a monk.
+        Yo: Who.
+        Vatthaṁ: Cloth, garment.
+        Paridahissati: Will wear, adorns.
+
+    Apeto damasaccena, na so kāsāvamarahati:
+        Apeto: Lacking, devoid of, bereft of.
+        Dama: Self-control, discipline.
+        Sacca: Truth, honesty.
+        Ena: With (suffix, making 'damasacca' into 'damasaccena').
+        Na: Not.
+        So: He.
+        Kāsāvam: Ocher robe.
+        Arahati: Deserves, is worthy of.
   
 Yo ca vantakasāvassa,  
 sīlesu susamāhito;  
@@ -170,6 +361,23 @@ steady in ethics,
 possessed of self-control and of truth,  
 they are truly worthy of the ocher robe.  
   
+    Yo ca vantakasāvassa, sīlesu susamāhito:
+        Yo: One who, whoever.
+        Ca: And.
+        Vantakasāvassa: Having discarded stains, purged of impurities.
+        Sīlesu: In ethics, in moral principles.
+        Susamāhito: Well-composed, well-established, steady.
+
+    Upeto damasaccena, sa ve kāsāvamarahati:
+        Upeto: Possessed of, endowed with.
+        Dama: Self-control.
+        Sacca: Truth.
+        Ena: With (suffix, making 'damasacca' into 'damasaccena').
+        Sa: He.
+        Ve: Indeed.
+        Kāsāvam: Ocher robe.
+        Arahati: Deserves, is worthy of.
+  
 Asāre sāramatino,  
 sāre cāsāradassino;  
 Te sāraṁ nādhigacchanti,  
@@ -179,6 +387,20 @@ Thinking the inessential is essential,
 seeing the essential as inessential;  
 they don’t realize the essential,  
 for wrong thoughts are their pasture.  
+  
+    Asāre sāramatino, sāre cāsāradassino:
+        Asāre: In the inessential, the unimportant, the worthless.
+        Sāramatino: Thinking it is essential, valuable.
+        Sāre: In the essential, the important, the valuable.
+        Ca: And.
+        Asāradassino: Seeing it as inessential, unimportant.
+
+    Te sāraṁ nādhigacchanti, micchāsaṅkappagocarā:
+        Te: They.
+        Sāraṁ: The essential, the important.
+        Nādhigacchanti: Do not realize, do not attain.
+        Micchāsaṅkappa: Wrong thinking, wrong intention.
+        Gocarā: Pasture, range, field (used metaphorically to mean 'realm' or 'domain').
   
 Sārañca sārato ñatvā,  
 asārañca asārato;  
@@ -190,6 +412,20 @@ and the inessential as inessential;
 they realize the essential,  
 for right thoughts are their pasture.  
   
+    Sārañca sārato ñatvā, asārañca asārato:
+        Sārañca: The essential, the important, the valuable.
+        Sārato: As essential, as valuable.
+        Ñatvā: Having known, having understood.
+        Asārañca: The inessential, the unimportant, the worthless.
+        Asārato: As inessential, as unimportant.
+
+    Te sāraṁ adhigacchanti, sammāsaṅkappagocarā:
+        Te: They.
+        Sāraṁ: The essential, the important.
+        Adhigacchanti: Realize, attain.
+        Sammāsaṅkappa: Right thinking, right intention.
+        Gocarā: Pasture, range, field (used metaphorically to mean 'realm' or 'domain').
+  
 Yathā agāraṁ ducchannaṁ,  
 vuṭṭhī samativijjhati;  
 Evaṁ abhāvitaṁ cittaṁ,  
@@ -199,6 +435,20 @@ Just as rain seeps into
 a poorly roofed house,  
 lust seeps into  
 an undeveloped mind.  
+  
+    Yathā agāraṁ ducchannaṁ, vuṭṭhī samativijjhati:
+        Yathā: Just as, like.
+        Agāraṁ: A house.
+        Ducchannaṁ: Poorly roofed, not well covered.
+        Vuṭṭhī: Rain.
+        Samativijjhati: Seeps into, penetrates.
+
+    Evaṁ abhāvitaṁ cittaṁ, rāgo samativijjhati:
+        Evaṁ: Thus, in this way.
+        Abhāvitaṁ: Undeveloped, untrained.
+        Cittaṁ: Mind.
+        Rāgo: Lust, desire.
+        Samativijjhati: Seeps into, penetrates.
   
 Yathā agāraṁ suchannaṁ,  
 vuṭṭhī na samativijjhati;  
@@ -210,6 +460,22 @@ a well roofed house,
 lust doesn’t seep into  
 a well developed mind.  
   
+    Yathā agāraṁ suchannaṁ, vuṭṭhī na samativijjhati:
+        Yathā: Just as, like.
+        Agāraṁ: A house.
+        Suchannaṁ: Well roofed, well covered.
+        Vuṭṭhī: Rain.
+        Na: Not.
+        Samativijjhati: Seep into, penetrate.
+
+    Evaṁ subhāvitaṁ cittaṁ, rāgo na samativijjhati:
+        Evaṁ: Thus, in this way.
+        Subhāvitaṁ: Well developed, well cultivated.
+        Cittaṁ: Mind.
+        Rāgo: Lust, desire.
+        Na: Not.
+        Samativijjhati: Seep into, penetrate.
+  
 Idha socati pecca socati,  
 Pāpakārī ubhayattha socati;  
 So socati so vihaññati,  
@@ -219,6 +485,24 @@ Here they grieve, hereafter they grieve,
 an evildoer grieves in both places.  
 They grieve and fret,  
 seeing their own corrupt deeds.  
+  
+    Idha socati pecca socati, pāpakārī ubhayattha socati:
+        Idha: Here.
+        Socati: They grieve.
+        Pecca: Hereafter, after death, in the next life.
+        Socati: They grieve.
+        Pāpakārī: The evildoer, one who does evil.
+        Ubhayattha: In both places, in both situations.
+        Socati: They grieve.
+
+    So socati so vihaññati, disvā kammakiliṭṭhamattano:
+        So: They.
+        Socati: Grieve.
+        So: They.
+        Vihaññati: Fret, worry, lament.
+        Disvā: Seeing, after seeing.
+        Kammakiliṭṭham: Corrupted, defiled deeds.
+        Attano: Their own.
   
 Idha modati pecca modati,  
 Katapuñño ubhayattha modati;  
@@ -230,6 +514,24 @@ one who does good rejoices in both places.
 They rejoice and celebrate,  
 seeing their own pure deeds.  
   
+    Idha modati pecca modati, katapuñño ubhayattha modati:
+        Idha: Here.
+        Modati: They rejoice.
+        Pecca: Hereafter, after death, in the next life.
+        Modati: They rejoice.
+        Katapuñño: One who has done good, a meritorious person.
+        Ubhayattha: In both places, in both situations.
+        Modati: They rejoice.
+
+    So modati so pamodati, disvā kammavisuddhimattano:
+        So: They.
+        Modati: Rejoice.
+        So: They.
+        Pamodati: Rejoice greatly, celebrate.
+        Disvā: Seeing, after seeing.
+        Kammavisuddhim: Purity of action, wholesome deeds.
+        Attano: Their own.
+  
 Idha tappati pecca tappati,  
 Pāpakārī ubhayattha tappati;  
 “Pāpaṁ me katan”ti tappati,  
@@ -239,6 +541,26 @@ Here they’re tormented, hereafter they’re tormented,
 an evildoer is tormented in both places.  
 They’re tormented thinking of bad things they’ve done;  
 when gone to a bad place, they’re tormented all the more.  
+  
+    Idha tappati pecca tappati, pāpakārī ubhayattha tappati:
+        Idha: Here.
+        Tappati: They’re tormented.
+        Pecca: Hereafter, after death, in the next life.
+        Tappati: They’re tormented.
+        Pāpakārī: The evildoer, one who does evil.
+        Ubhayattha: In both places, in both situations.
+        Tappati: They’re tormented.
+
+    “Pāpaṁ me katan”ti tappati, bhiyyo tappati duggatiṁ gato:
+        Pāpaṁ: Evil, sin, unwholesome.
+        Me: My.
+        Katan: Done, having done.
+        Ti: "quotes" for direct speech.
+        Tappati: They’re tormented.
+        Bhiyyo: More, even more.
+        Tappati: They’re tormented.
+        Duggatiṁ: Bad place, state of misery, lower realms.
+        Gato: Gone, having gone to.
   
 Idha nandati pecca nandati,  
 Katapuñño ubhayattha nandati;  
@@ -250,6 +572,26 @@ one who does good delights in both places.
 They delight thinking of good things they’ve done;  
 when gone to a good place, they delight all the more.  
   
+    Idha nandati pecca nandati, katapuñño ubhayattha nandati:
+        Idha: Here.
+        Nandati: They delight.
+        Pecca: Hereafter, after death, in the next life.
+        Nandati: They delight.
+        Katapuñño: One who has done good, a meritorious person.
+        Ubhayattha: In both places, in both situations.
+        Nandati: They delight.
+
+    “Puññaṁ me katan”ti nandati, bhiyyo nandati suggatiṁ gato:
+        Puññaṁ: Merit, good, wholesome.
+        Me: My.
+        Katan: Done, having done.
+        Ti: "quotes" for direct speech.
+        Nandati: They delight.
+        Bhiyyo: More, even more.
+        Nandati: They delight.
+        Suggatiṁ: Good place, state of bliss, higher realms.
+        Gato: Gone, having gone to.
+  
 Bahumpi ce saṁhita bhāsamāno,  
 Na takkaro hoti naro pamatto;  
 Gopova gāvo gaṇayaṁ paresaṁ,  
@@ -259,6 +601,27 @@ Much though they may recite scripture,
 if a negligent person does not apply them,  
 then, like a cowherd who counts the cattle of others,  
 they miss out on the blessings of the ascetic life.  
+  
+    Bahumpi ce saṁhita bhāsamāno, na takkaro hoti naro pamatto:
+        Bahumpi: Much, often.
+        Ce: If.
+        Saṁhita: Scripture, text, the Buddhist scriptures.
+        Bhāsamāno: Reciting, speaking.
+        Na: Not.
+        Takkaro: Practitioner, one who applies.
+        Hoti: Becomes, is.
+        Naro: Person, man.
+        Pamatto: Negligent, heedless, careless.
+
+    Gopova gāvo gaṇayaṁ paresaṁ, na bhāgavā sāmaññassa hoti:
+        Gopova: Like a cowherd.
+        Gāvo: Cattle, cows.
+        Gaṇayaṁ: Counting.
+        Paresaṁ: Of others.
+        Na: Not.
+        Bhāgavā: Share, portion, benefit.
+        Sāmaññassa: Of the ascetic life, of monkhood.
+        Hoti: Becomes, is.
   
 Appampi ce saṁhita bhāsamāno,  
 Dhammassa hoti anudhammacārī;  
@@ -274,6 +637,34 @@ with deep understanding and heart well-freed,
 not grasping to this world or the next,  
 they share in the blessings of the ascetic life.  
 
+    Appampi ce saṁhita bhāsamāno, Dhammassa hoti anudhammacārī:
+        Appampi: Little, not much.
+        Ce: If.
+        Saṁhita: Scripture, text, the Buddhist scriptures.
+        Bhāsamāno: Reciting, speaking.
+        Dhammassa: Of the Dhamma, of the teachings.
+        Hoti: Becomes, is.
+        Anudhammacārī: One who lives in line with the teachings, follower of the Dhamma.
+
+    Rāgañca dosañca pahāya mohaṁ, sammappajāno suvimuttacitto:
+        Rāgañca: Passion, desire, and.
+        Dosañca: Hatred, and.
+        Pahāya: Having given up, having abandoned.
+        Mohaṁ: Delusion.
+        Sammappajāno: With deep understanding, thoroughly knowing.
+        Suvimuttacitto: Heart well-freed, with a well-liberated mind.
+
+    Anupādiyāno idha vā huraṁ vā, sa bhāgavā sāmaññassa hoti:
+        Anupādiyāno: Not grasping, not clinging.
+        Idha: Here, in this life.
+        Vā: Or.
+        Huraṁ: Hereafter, in the next life.
+        Vā: Or.
+        Sa: They.
+        Bhāgavā: Share, portion, benefit.
+        Sāmaññassa: Of the ascetic life, of monkhood.
+        Hoti: Becomes, is.
+  
 ### 2. Appamādavagga: Diligence
 
 Appamādo amatapadaṁ,  
