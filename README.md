@@ -6187,6 +6187,22 @@ neglecting what you should be doing,
 forgetting your goal, you cling to what you hold dear,  
 jealous of those devoted to their own goal.  
   
+    Ayoge yuñjamattānaṁ,
+        Ayoge: in what is not a practice, where you should not
+        yuñjamattānaṁ: applying oneself, working, engaged
+
+    yogasmiñca ayojayaṁ;
+        yogasmiñca: in practice, in what should be done
+        ayojayaṁ: not applying, not doing, neglecting
+
+    Atthaṁ hitvā piyaggāhī,
+        Atthaṁ: goal, purpose
+        hitvā: having left, forgotten
+        piyaggāhī: clinger to what is dear, you who cling to what you hold dear
+
+    pihetattānuyoginaṁ.
+        pihetattānuyoginaṁ: jealous (or envious) of those who pursue their own goal, practice
+  
 Mā piyehi samāgañchi,  
 appiyehi kudācanaṁ;  
 Piyānaṁ adassanaṁ dukkhaṁ,  
@@ -6196,6 +6212,24 @@ Don’t ever get too close
 to those you like or dislike.  
 For not seeing the liked is suffering,  
 and so is seeing the disliked.  
+  
+    Mā piyehi samāgañchi,
+        Mā: don't
+        piyehi: with the liked ones, with those you like
+        samāgañchi: approach closely, get too close
+
+    appiyehi kudācanaṁ;
+        appiyehi: with the disliked ones, with those you dislike
+        kudācanaṁ: at any time, ever
+
+    Piyānaṁ adassanaṁ dukkhaṁ,
+        Piyānaṁ: of the liked ones
+        adassanaṁ: not seeing
+        dukkhaṁ: is suffering, is painful
+
+    appiyānañca dassanaṁ.
+        appiyānañca: and of the disliked ones
+        dassanaṁ: seeing
   
 Tasmā piyaṁ na kayirātha,  
 piyāpāyo hi pāpako;  
@@ -6207,6 +6241,28 @@ for it’s bad to lose those you love.
 No ties are found in they who  
 hold nothing loved or loathed.  
   
+    Tasmā piyaṁ na kayirātha,
+        Tasmā: therefore
+        piyaṁ: loved one, something dear
+        na: not
+        kayirātha: should make, should hold
+
+    piyāpāyo hi pāpako;
+        piyāpāyo: loss of the loved one
+        hi: indeed
+        pāpako: is bad, is harmful
+
+    Ganthā tesaṁ na vijjanti,
+        Ganthā: ties, bonds
+        tesaṁ: their, of them
+        na: not
+        vijjanti: are found, exist
+
+    yesaṁ natthi piyāppiyaṁ.
+        yesaṁ: of whom, of those
+        natthi: there is not, exist not
+        piyāppiyaṁ: loved and loathed, things liked and disliked
+  
 Piyato jāyatī soko,  
 piyato jāyatī bhayaṁ;  
 Piyato vippamuttassa,  
@@ -6216,6 +6272,26 @@ Sorrow springs from what we hold dear,
 fear springs from what we hold dear;  
 one free from holding anything dear  
 has no sorrow, let alone fear.  
+  
+    Piyato jāyatī soko,
+        Piyato: from the loved one, from what is dear
+        jāyatī: arises, springs
+        soko: sorrow, grief
+
+    piyato jāyatī bhayaṁ;
+        piyato: from the loved one, from what is dear
+        jāyatī: arises, springs
+        bhayaṁ: fear
+
+    Piyato vippamuttassa,
+        Piyato: from the loved one, from what is dear
+        vippamuttassa: one who is liberated, freed
+
+    natthi soko kuto bhayaṁ.
+        natthi: there is not, does not exist
+        soko: sorrow, grief
+        kuto: whence, where from
+        bhayaṁ: fear
   
 Pemato jāyatī soko,  
 pemato jāyatī bhayaṁ;  
@@ -6227,6 +6303,26 @@ fear springs from attachment;
 one free from attachment  
 has no sorrow, let alone fear.  
   
+    Pemato jāyatī soko,
+        Pemato: from attachment, from affection
+        jāyatī: arises, springs
+        soko: sorrow, grief
+
+    pemato jāyatī bhayaṁ;
+        pemato: from attachment, from affection
+        jāyatī: arises, springs
+        bhayaṁ: fear
+
+    Pemato vippamuttassa,
+        Pemato: from attachment, from affection
+        vippamuttassa: one who is liberated, freed
+
+    natthi soko kuto bhayaṁ.
+        natthi: there is not, does not exist
+        soko: sorrow, grief
+        kuto: whence, where from
+        bhayaṁ: fear
+  
 Ratiyā jāyatī soko,  
 ratiyā jāyatī bhayaṁ;  
 Ratiyā vippamuttassa,  
@@ -6236,6 +6332,26 @@ Sorrow springs from relishing,
 fear springs from relishing;  
 one free from relishing  
 has no sorrow, let alone fear.  
+  
+    Ratiyā jāyatī soko,
+        Ratiyā: from relishing, from delight, from pleasure
+        jāyatī: arises, springs
+        soko: sorrow, grief
+
+    ratiyā jāyatī bhayaṁ;
+        ratiyā: from relishing, from delight, from pleasure
+        jāyatī: arises, springs
+        bhayaṁ: fear
+
+    Ratiyā vippamuttassa,
+        Ratiyā: from relishing, from delight, from pleasure
+        vippamuttassa: one who is liberated, freed
+
+    natthi soko kuto bhayaṁ.
+        natthi: there is not, does not exist
+        soko: sorrow, grief
+        kuto: whence, where from
+        bhayaṁ: fear
   
 Kāmato jāyatī soko,  
 kāmato jāyatī bhayaṁ;  
@@ -6247,6 +6363,26 @@ fear springs from desire;
 one free from desire  
 has no sorrow, let alone fear.  
   
+    Kāmato jāyatī soko,
+        Kāmato: from desire, from sensual craving
+        jāyatī: arises, springs
+        soko: sorrow, grief
+
+    kāmato jāyatī bhayaṁ;
+        kāmato: from desire, from sensual craving
+        jāyatī: arises, springs
+        bhayaṁ: fear
+
+    Kāmato vippamuttassa,
+        Kāmato: from desire, from sensual craving
+        vippamuttassa: one who is liberated, freed
+
+    natthi soko kuto bhayaṁ.
+        natthi: there is not, does not exist
+        soko: sorrow, grief
+        kuto: whence, where from
+        bhayaṁ: fear
+  
 Taṇhāya jāyatī soko,  
 taṇhāya jāyatī bhayaṁ;  
 Taṇhāya vippamuttassa,  
@@ -6256,6 +6392,26 @@ Sorrow springs from craving,
 fear springs from craving;  
 one free from craving  
 has no sorrow, let alone fear.  
+  
+    Taṇhāya jāyatī soko,
+        Taṇhāya: from craving
+        jāyatī: arises, springs
+        soko: sorrow, grief
+
+    taṇhāya jāyatī bhayaṁ;
+        taṇhāya: from craving
+        jāyatī: arises, springs
+        bhayaṁ: fear
+
+    Taṇhāya vippamuttassa,
+        Taṇhāya: from craving
+        vippamuttassa: one who is liberated, freed
+
+    natthi soko kuto bhayaṁ.
+        natthi: there is not, does not exist
+        soko: sorrow, grief
+        kuto: whence, where from
+        bhayaṁ: fear
   
 Sīladassanasampannaṁ,  
 dhammaṭṭhaṁ saccavedinaṁ;  
@@ -6267,6 +6423,26 @@ firm in principle, and truthful,
 doing oneself what ought be done:  
 that’s who the people love.  
   
+    Sīladassanasampannaṁ,
+        Sīla: virtue, ethical behavior
+        dassana: vision, insight
+        sampannaṁ: accomplished, endowed with
+
+    dhammaṭṭhaṁ saccavedinaṁ;
+        dhammaṭṭhaṁ: firm in principle, adhering to the truth
+        saccavedinaṁ: truthful, speaker of truth
+
+    Attano kamma kubbānaṁ,
+        Attano: oneself
+        kamma: action, deed
+        kubbānaṁ: doing, performing
+
+    taṁ jano kurute piyaṁ.
+        taṁ: that, such
+        jano: people, folks
+        kurute: make, regard
+        piyaṁ: love, dear
+  
 Chandajāto anakkhāte,  
 Manasā ca phuṭo siyā;  
 Kāmesu ca appaṭibaddhacitto,  
@@ -6276,6 +6452,26 @@ One eager to realize the ineffable
 would be filled with awareness.  
 Their mind not bound to pleasures of sense,  
 they’re said to be heading upstream.  
+  
+    Chandajāto anakkhāte,
+        Chandajāto: Born from desire, eager
+        anakkhāte: Ineffable, indescribable
+
+    Manasā ca phuṭo siyā;
+        Manasā: With mind, by means of awareness
+        ca: And
+        phuṭo: Touched, filled
+        siyā: Would be
+
+    Kāmesu ca appaṭibaddhacitto,
+        Kāmesu: In sense pleasures
+        ca: And
+        appaṭibaddhacitto: Mind not bound, unattached
+
+    Uddhaṁsototi vuccati.
+        Uddhaṁsoto: Going upstream, against the current
+        ti: Quoted speech marker
+        vuccati: Is said
   
 Cirappavāsiṁ purisaṁ,  
 dūrato sotthimāgataṁ;  
@@ -6287,6 +6483,23 @@ after a long time spent abroad,
 family, friends, and loved ones  
 celebrate his return.  
   
+    Cirappavāsiṁ purisaṁ,
+        Cirappavāsiṁ: Having lived long, having been away for a long time
+        purisaṁ: A man, person
+
+    dūrato sotthimāgataṁ;
+        dūrato: From far away, from abroad
+        sotthimāgataṁ: Having come safely, having returned safely
+
+    Ñātimittā suhajjā ca,
+        Ñātimittā: Relatives and friends
+        suhajjā: Loved ones
+        ca: And
+
+    abhinandanti āgataṁ.
+        abhinandanti: Rejoice, celebrate
+        āgataṁ: His arrival, his return
+  
 Tatheva katapuññampi,  
 asmā lokā paraṁ gataṁ;  
 Puññāni paṭigaṇhanti,  
@@ -6296,7 +6509,25 @@ Just so, when one who has done good
 goes from this world to the next,  
 their good deeds receive them there,  
 as family welcomes home one they love.  
+  
+    Tatheva katapuññampi,
+        Tatheva: In the same way, just so
+        katapuññampi: One who has done good deeds, who has performed meritorious actions
 
+    asmā lokā paraṁ gataṁ;
+        asmā lokā: From this world
+        paraṁ: To the next, to another
+        gataṁ: Having gone, traveling
+
+    Puññāni paṭigaṇhanti,
+        Puññāni: Meritorious deeds, good deeds
+        paṭigaṇhanti: Receive, greet
+
+    piyaṁ ñātīva āgataṁ.
+        piyaṁ: Beloved, dear one
+        ñātīva: As if family
+        āgataṁ: Has arrived, has come home
+  
 ### 17. Kodhavagga: Anger
 
 Kodhaṁ jahe vippajaheyya mānaṁ,  
@@ -6309,6 +6540,27 @@ and escape every fetter.
 Sufferings don’t befall one who has nothing,  
 not clinging to name and form.  
   
+    Kodhaṁ jahe vippajaheyya mānaṁ,
+        Kodhaṁ: Anger
+        jahe: should give up, abandon
+        vippajaheyya: should get rid of, discard
+        mānaṁ: conceit, arrogance
+
+    Saṁyojanaṁ sabbamatikkameyya;
+        Saṁyojanaṁ: Fetters, bindings
+        sabbam: every, all
+        atikkameyya: should surpass, should overcome
+
+    Taṁ nāmarūpasmimasajjamānaṁ,
+        Taṁ: that one, he
+        nāmarūpasmim: in name-and-form (nāmarūpa is a term often used in Buddhism to denote the psycho-physical existence or personal identity)
+        asajjamānaṁ: not clinging, not sticking to
+
+    Akiñcanaṁ nānupatanti dukkhā.
+        Akiñcanaṁ: who has nothing, who is without possessions
+        nānupatanti: do not befall, do not afflict
+        dukkhā: sufferings, pains
+  
 Yo ve uppatitaṁ kodhaṁ,  
 rathaṁ bhantaṁva vāraye;  
 Tamahaṁ sārathiṁ brūmi,  
@@ -6318,6 +6570,28 @@ When anger surges like a lurching chariot,
 keep it in check.  
 That’s what I call a charioteer;  
 others just hold the reins.  
+  
+    Yo ve uppatitaṁ kodhaṁ,
+        Yo: Who
+        ve: indeed
+        uppatitaṁ: arisen, surged
+        kodhaṁ: anger
+
+    rathaṁ bhantaṁva vāraye;
+        rathaṁ: chariot
+        bhantaṁva: like a lurching, like a wandering
+        vāraye: keeps in check, restrains
+
+    Tamahaṁ sārathiṁ brūmi,
+        Tam: him, that one
+        ahaṁ: I
+        sārathiṁ: charioteer
+        brūmi: call, proclaim
+
+    rasmiggāho itaro jano.
+        rasmiggāho: rein-holders, those who hold the reins
+        itaro: others
+        jano: people
   
 Akkodhena jine kodhaṁ,  
 asādhuṁ sādhunā jine;  
@@ -6329,6 +6603,25 @@ villainy with virtue,
 stinginess with giving,  
 and lies with truth.  
   
+    Akkodhena jine kodhaṁ,
+        Akkodhena: With non-anger, with kindness
+        jine: defeat, conquer
+        kodhaṁ: anger
+
+    asādhuṁ sādhunā jine;
+        asādhuṁ: villainy, the wicked
+        sādhunā: with the good, with virtue
+        jine: defeat, conquer
+
+    Jine kadariyaṁ dānena,
+        Jine: defeat, conquer
+        kadariyaṁ: stinginess, the stingy
+        dānena: with giving, with generosity
+
+    saccenālikavādinaṁ.
+        saccenā: with truth
+        alikavādinaṁ: the liar, lies
+  
 Saccaṁ bhaṇe na kujjheyya,  
 dajjā appampi yācito;  
 Etehi tīhi ṭhānehi,  
@@ -6338,6 +6631,27 @@ Speak the truth, do not be angry,
 and give when asked, if only a little.  
 By these three means,  
 you may enter the presence of the gods.  
+  
+    Saccaṁ bhaṇe na kujjheyya,
+        Saccaṁ: truth
+        bhaṇe: speak
+        na: not
+        kujjheyya: be angry
+
+    dajjā appampi yācito;
+        dajjā: give, donate
+        appampi: even a little
+        yācito: when asked, if requested
+
+    Etehi tīhi ṭhānehi,
+        Etehi: by these
+        tīhi: three
+        ṭhānehi: means, conditions
+
+    gacche devāna santike.
+        gacche: go, proceed
+        devāna: of gods, of the divine
+        santike: in the presence, proximity
   
 Ahiṁsakā ye munayo,  
 niccaṁ kāyena saṁvutā;  
@@ -6349,6 +6663,28 @@ always restrained in body,
 go to the imperishable state,  
 where there is no sorrow.  
   
+    Ahiṁsakā ye munayo,
+        Ahiṁsakā: harmless, nonviolent
+        ye: who, those
+        munayo: sages
+
+    niccaṁ kāyena saṁvutā;
+        niccaṁ: always, permanently
+        kāyena: with body, in body
+        saṁvutā: restrained, controlled
+
+    Te yanti accutaṁ ṭhānaṁ,
+        Te: they
+        yanti: go, proceed
+        accutaṁ: imperishable, undecaying
+        ṭhānaṁ: state, place
+
+    yattha gantvā na socare.
+        yattha: where
+        gantvā: having gone, on reaching
+        na: not
+        socare: grieve, sorrow
+  
 Sadā jāgaramānānaṁ,  
 ahorattānusikkhinaṁ;  
 Nibbānaṁ adhimuttānaṁ,  
@@ -6358,6 +6694,22 @@ Always wakeful,
 practicing night and day,  
 focused only on quenching,  
 their defilements come to an end.  
+  
+    Sadā jāgaramānānaṁ,
+        Sadā: always, ever
+        jāgaramānānaṁ: wakeful, watchful (of those)
+
+    ahorattānusikkhinaṁ;
+        ahorattānusikkhinaṁ: practicing day and night (of those)
+
+    Nibbānaṁ adhimuttānaṁ,
+        Nibbānaṁ: Nibbana, extinction, quenching
+        adhimuttānaṁ: focused, intent, resolved (of those)
+
+    atthaṁ gacchanti āsavā.
+        atthaṁ: end, cessation
+        gacchanti: go, proceed
+        āsavā: defilements, taints, corruptions
   
 Porāṇametaṁ atula,  
 netaṁ ajjatanāmiva;  
@@ -6373,6 +6725,34 @@ they blame you when you speak a lot,
 and even when you speak just right:  
 no-one in the world escapes blame.  
   
+    Porāṇametaṁ atula,
+        Porāṇam: ancient, always
+        etaṁ: this
+        atula: Oh Atula (addressing a person named Atula)
+
+    netaṁ ajjatanāmiva;
+        netaṁ: not this
+        ajjatanām: today, of today
+        iva: like
+
+    Nindanti tuṇhimāsīnaṁ,
+        Nindanti: they blame
+        tuṇhimāsīnaṁ: the silent one
+
+    nindanti bahubhāṇinaṁ;
+        nindanti: they blame
+        bahubhāṇinaṁ: the one speaking a lot
+
+    Mitabhāṇimpi nindanti,
+        Mitabhāṇim: one who speaks moderately
+        pi: also, even
+        nindanti: they blame
+
+    natthi loke anindito.
+        natthi: there is not
+        loke: in the world
+        anindito: unblamed
+  
 Na cāhu na ca bhavissati,  
 na cetarahi vijjati;  
 Ekantaṁ nindito poso,  
@@ -6382,6 +6762,28 @@ There never was, nor will be,
 nor is there today,  
 someone who is wholly praised  
 or wholly blamed.  
+  
+    Na cāhu na ca bhavissati,
+        Na: not
+        cāhu: was
+        na: not
+        ca: and
+        bhavissati: will be
+
+    na cetarahi vijjati;
+        na: not
+        cetarahi: today
+        vijjati: is there
+
+    Ekantaṁ nindito poso,
+        Ekantaṁ: wholly, completely
+        nindito: blamed
+        poso: person
+
+    ekantaṁ vā pasaṁsito.
+        ekantaṁ: wholly, completely
+        vā: or
+        pasaṁsito: praised
   
 Yañce viññū pasaṁsanti,  
 anuvicca suve suve;  
@@ -6393,6 +6795,24 @@ discerning people praise
 that sage of impeccable conduct,  
 endowed with ethics and wisdom;  
   
+    Yañce viññū pasaṁsanti,
+        Yañce: if
+        viññū: discerning people, wise ones
+        pasaṁsanti: praise
+
+    anuvicca suve suve;
+        anuvicca: after watching, after examining
+        suve suve: day after day, repeatedly
+
+    Acchiddavuttiṁ medhāviṁ,
+        Acchiddavuttiṁ: of impeccable conduct
+        medhāviṁ: that sage, wise person
+
+    paññāsīlasamāhitaṁ.
+        paññā: wisdom
+        sīla: ethics, morality
+        samāhitaṁ: endowed with, composed
+  
 Nikkhaṁ jambonadasseva,  
 ko taṁ ninditumarahati;  
 Devāpi naṁ pasaṁsanti,  
@@ -6402,6 +6822,24 @@ like a pendant of river gold,
 who is worthy to criticize them?  
 Even the gods praise them,  
 and by Brahmā, too, they’re praised.  
+  
+    Nikkhaṁ jambonadasseva,
+        Nikkhaṁ: pendant, lump
+        jambonadasseva: of river gold, gold from the Jambu river
+
+    ko taṁ ninditumarahati;
+        ko: who
+        taṁ: them, that one
+        ninditumarahati: is worthy to criticize, can reproach
+
+    Devāpi naṁ pasaṁsanti,
+        Devāpi: even the gods
+        naṁ: them, that one
+        pasaṁsanti: praise
+
+    brahmunāpi pasaṁsito.
+        brahmunāpi: by Brahmā too
+        pasaṁsito: they’re praised, is praised
   
 Kāyappakopaṁ rakkheyya,  
 kāyena saṁvuto siyā;  
@@ -6413,6 +6851,24 @@ be restrained in body.
 Giving up bad bodily conduct,  
 conduct yourself well in body.  
   
+    Kāyappakopaṁ rakkheyya,
+        Kāyappakopaṁ: body-ill-tempered deeds
+        rakkheyya: should guard, guard
+
+    kāyena saṁvuto siyā;
+        kāyena: in body, with body
+        saṁvuto: restrained
+        siyā: should be, be
+
+    Kāyaduccaritaṁ hitvā,
+        Kāyaduccaritaṁ: bad bodily conduct, misbehavior with body
+        hitvā: having abandoned, giving up
+
+    kāyena sucaritaṁ care.
+        kāyena: in body, with body
+        sucaritaṁ: good conduct, well-behaved
+        care: should behave, conduct yourself
+  
 Vacīpakopaṁ rakkheyya,  
 vācāya saṁvuto siyā;  
 Vacīduccaritaṁ hitvā,  
@@ -6422,6 +6878,24 @@ Guard against ill-tempered words,
 be restrained in speech.  
 Giving up bad verbal conduct,  
 conduct yourself well in speech.  
+  
+    Vacīpakopaṁ rakkheyya,
+        Vacīpakopaṁ: speech-ill-tempered words
+        rakkheyya: should guard, guard
+
+    vācāya saṁvuto siyā;
+        vācāya: in speech, with speech
+        saṁvuto: restrained
+        siyā: should be, be
+
+    Vacīduccaritaṁ hitvā,
+        Vacīduccaritaṁ: bad verbal conduct, misbehavior with speech
+        hitvā: having abandoned, giving up
+
+    vācāya sucaritaṁ care.
+        vācāya: in speech, with speech
+        sucaritaṁ: good conduct, well-behaved
+        care: should behave, conduct yourself
   
 Manopakopaṁ rakkheyya,  
 manasā saṁvuto siyā;  
@@ -6433,6 +6907,24 @@ be restrained in mind.
 Giving up bad mental conduct,  
 conduct yourself well in mind.  
   
+    Manopakopaṁ rakkheyya,
+        Manopakopaṁ: mind-ill-tempered thoughts
+        rakkheyya: should guard, guard
+
+    manasā saṁvuto siyā;
+        manasā: in mind, with mind
+        saṁvuto: restrained
+        siyā: should be, be
+
+    Manoduccaritaṁ hitvā,
+        Manoduccaritaṁ: bad mental conduct, misbehavior with mind
+        hitvā: having abandoned, giving up
+
+    manasā sucaritaṁ care.
+        manasā: in mind, with mind
+        sucaritaṁ: good conduct, well-behaved
+        care: should behave, conduct yourself
+  
 Kāyena saṁvutā dhīrā,  
 atho vācāya saṁvutā;  
 Manasā saṁvutā dhīrā,  
@@ -6443,6 +6935,26 @@ restrained also in speech,
 in thought, too, they are restrained:  
 they are restrained in every way.  
 
+    Kāyena saṁvutā dhīrā,
+        Kāyena: with body, in body
+        saṁvutā: restrained
+        dhīrā: sage, wise ones
+
+    atho vācāya saṁvutā;
+        atho: moreover, also
+        vācāya: in speech, with speech
+        saṁvutā: restrained
+
+    Manasā saṁvutā dhīrā,
+        Manasā: with mind, in mind
+        saṁvutā: restrained
+        dhīrā: sage, wise ones
+
+    te ve suparisaṁvutā.
+        te: they
+        ve: indeed
+        suparisaṁvutā: fully restrained, restrained in every way
+  
 ### 18. Malavagga: Stains
 
 Paṇḍupalāsova dānisi,  
