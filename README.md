@@ -6,7 +6,7 @@ Below is the [Dhammapada](#dhammapada-sayings-of-the-dhamma), part of the Pali C
 
 #### Example ChatGPT Prompt
 ```
-Please translate the following verse word by word:
+Please translate the following verse of the Dhammapada from Pali to English word by word:
 
 Manopubbaṅgamā dhammā,
 manoseṭṭhā manomayā;
@@ -6967,6 +6967,28 @@ Yama’s men await you.
 You stand at the departure gates,  
 yet you have no supplies for the road.  
   
+    Paṇḍupalāsova dānisi,
+        Paṇḍupalāsova: like a withered leaf
+        dānisi: today, at this moment
+
+    Yamapurisāpi ca te upaṭṭhitā;
+        Yamapurisāpi: the men (messengers) of Yama (the god of death)
+        ca: and
+        te: you
+        upaṭṭhitā: are waiting for, are present for
+
+    Uyyogamukhe ca tiṭṭhasi,
+        Uyyogamukhe: at the departure gates
+        ca: and
+        tiṭṭhasi: you stand, you exist
+
+    Pātheyyampi ca te na vijjati.
+        Pātheyyampi: provisions, supplies for the journey
+        ca: and
+        te: your
+        na: not
+        vijjati: is there, exist
+  
 So karohi dīpamattano,  
 Khippaṁ vāyama paṇḍito bhava;  
 Niddhantamalo anaṅgaṇo,  
@@ -6976,6 +6998,26 @@ Make an island of yourself!
 Swiftly strive, learn to be wise!  
 Purged of stains, flawless,  
 you’ll go to the divine realm of the noble ones.  
+  
+    So karohi dīpamattano,
+        So: thus, in such a way
+        karohi: do, make
+        dīpamattano: an island of yourself (dīpa - island, attano - of oneself)
+
+    Khippaṁ vāyama paṇḍito bhava;
+        Khippaṁ: quickly, swiftly
+        vāyama: strive, exert oneself
+        paṇḍito: wise, learned
+        bhava: become, be
+
+    Niddhantamalo anaṅgaṇo,
+        Niddhantamalo: purged of stains, cleared of impurities (niddhanta - removed, cleansed; malo - stain, impurity)
+        anaṅgaṇo: flawless, free from defilements
+
+    Dibbaṁ ariyabhūmiṁ upehisi.
+        Dibbaṁ: divine, heavenly
+        ariyabhūmiṁ: the noble ones' realm (ariya - noble; bhūmi - ground, realm)
+        upehisi: you will reach, you will go to
   
 Upanītavayo ca dānisi,  
 Sampayātosi yamassa santikaṁ;  
@@ -6987,6 +7029,29 @@ and now you set out to meet Yama.
 Along the way there’s nowhere to stay,  
 yet you have no supplies for the road.  
   
+    Upanītavayo ca dānisi,
+        Upanītavayo: one who has journeyed the stages of life (upanīta - brought or taken up; vayo - stages of life, age)
+        ca: and
+        dānisi: now, today
+
+    Sampayātosi yamassa santikaṁ;
+        Sampayātosi: you set out, you go (from sampayāti - to go or come near)
+        yamassa: to Yama, the god of death
+        santikaṁ: presence, meeting
+
+    Vāso te natthi antarā,
+        Vāso: dwelling, place to stay
+        te: your
+        natthi: is not, does not exist
+        antarā: in between, along the way
+
+    Pātheyyampi ca te na vijjati.
+        Pātheyyampi: supplies or provisions for the journey
+        ca: and
+        te: your
+        na: not
+        vijjati: is found, exists
+  
 So karohi dīpamattano,  
 Khippaṁ vāyama paṇḍito bhava;  
 Niddhantamalo anaṅgaṇo,  
@@ -6996,6 +7061,27 @@ Make an island of yourself!
 Swiftly strive, learn to be wise!  
 Purged of stains, flawless,  
 you’ll not come again to rebirth and old age.  
+  
+    So karohi dīpamattano,
+        So: that, such, so
+        karohi: make, do (from "karoti" - to do, make)
+        dīpamattano: island of oneself (dīpa - island, attano - oneself)
+
+    Khippaṁ vāyama paṇḍito bhava;
+        Khippaṁ: quickly, swiftly
+        vāyama: strive, effort (from "vāyamati" - to strive, make an effort)
+        paṇḍito: wise, learned
+        bhava: be, become (from "bhavati" - to become, be)
+
+    Niddhantamalo anaṅgaṇo,
+        Niddhantamalo: purged of stains, spotless (niddhanta - removed, expelled; malo - stains, dirt)
+        anaṅgaṇo: flawless, without blemish (an- prefix indicates negation, aṅgaṇa - blemish, fault)
+
+    Na punaṁ jātijaraṁ upehisi.
+        Na: not
+        punaṁ: again
+        jātijaraṁ: birth and old age (jāti - birth, jara - old age)
+        upehisi: will come/go to (from "upehiti" - to go towards, approach)
   
 Anupubbena medhāvī,  
 thokaṁ thokaṁ khaṇe khaṇe;  
@@ -7007,6 +7093,27 @@ their own stains gradually,
 bit by bit, moment by moment,  
 like a smith smelting silver.  
   
+    So karohi dīpamattano,
+        So: that, such, so
+        karohi: make, do (from "karoti" - to do, make)
+        dīpamattano: island of oneself (dīpa - island, attano - oneself)
+
+    Khippaṁ vāyama paṇḍito bhava;
+        Khippaṁ: quickly, swiftly
+        vāyama: strive, effort (from "vāyamati" - to strive, make an effort)
+        paṇḍito: wise, learned
+        bhava: be, become (from "bhavati" - to become, be)
+
+    Niddhantamalo anaṅgaṇo,
+        Niddhantamalo: purged of stains, spotless (niddhanta - removed, expelled; malo - stains, dirt)
+        anaṅgaṇo: flawless, without blemish (an- prefix indicates negation, aṅgaṇa - blemish, fault)
+
+    Na punaṁ jātijaraṁ upehisi.
+        Na: not
+        punaṁ: again
+        jātijaraṁ: birth and old age (jāti - birth, jara - old age)
+        upehisi: will come/go to (from "upehiti" - to go towards, approach)
+  
 Ayasāva malaṁ samuṭṭhitaṁ,  
 Tatuṭṭhāya tameva khādati;  
 Evaṁ atidhonacārinaṁ,  
@@ -7016,6 +7123,26 @@ It is the rust born on the iron
 that eats away the place it arose.  
 And so it is their own deeds  
 that lead the overly-ascetic to a bad place.  
+  
+    Ayasāva malaṁ samuṭṭhitaṁ,
+        Ayasāva: indeed on the iron (ayas - iron; ava - indeed)
+        malaṁ: rust, stain (mala - rust, stain)
+        samuṭṭhitaṁ: is born, arisen (from samuṭṭhita - arisen, originated)
+
+    Tatuṭṭhāya tameva khādati;
+        Tatuṭṭhāya: from that place, therefrom (tattha - there; uṭṭhāya - arisen, standing up)
+        tameva: that very (tameva - that very, that same)
+        khādati: eats away, consumes (khādati - eats, consumes)
+
+    Evaṁ atidhonacārinaṁ,
+        Evaṁ: thus, in this way (evaṁ - thus, so)
+        atidhonacārinaṁ: of those overly-ascetic, of the overly disciplined (atidhona - overly strict, too zealous; cārin - practising, behaving)
+
+    Sāni kammāni nayanti duggatiṁ.
+        Sāni: own (sāni - own, one's own)
+        kammāni: deeds, actions (kamma - deed, action)
+        nayanti: lead to, guide to (nayanti - lead, guide)
+        duggatiṁ: a bad place, bad state (duggati - bad state, misery)
   
 Asajjhāyamalā mantā,  
 anuṭṭhānamalā gharā;  
@@ -7027,6 +7154,24 @@ The stain of houses is neglect.
 Laziness is the stain of beauty.  
 A guard’s stain is negligence.  
   
+    Asajjhāyamalā mantā,
+        Asajjhāyamalā: not reciting is the stain (asajjhāya - not reciting; malā - stain)
+        mantā: hymns, chants (manta - hymn, chant)
+
+    anuṭṭhānamalā gharā;
+        anuṭṭhānamalā: neglect is the stain (anuṭṭhāna - neglect; malā - stain)
+        gharā: houses, homes (ghara - house, home)
+
+    Malaṁ vaṇṇassa kosajjaṁ,
+        Malaṁ: stain (mala - stain)
+        vaṇṇassa: of beauty, of appearance (vaṇṇa - color, beauty)
+        kosajjaṁ: laziness, idleness (kosajja - laziness)
+
+    pamādo rakkhato malaṁ.
+        pamādo: negligence, heedlessness (pamāda - negligence)
+        rakkhato: of a guard, of a protector (rakkhita - guard, protector)
+        malaṁ: stain (mala - stain)
+  
 Malitthiyā duccaritaṁ,  
 maccheraṁ dadato malaṁ;  
 Malā ve pāpakā dhammā,  
@@ -7036,6 +7181,27 @@ Misconduct is a woman’s stain.
 A giver’s stain is stinginess.  
 Bad qualities are a stain  
 in this world and the next.  
+  
+    Malitthiyā duccaritaṁ,
+        Malitthiyā: a woman's stain (iti - woman; mala - stain)
+        duccaritaṁ: misconduct, wrong doing (du - bad; carita - conduct)
+
+    maccheraṁ dadato malaṁ;
+        maccheraṁ: stinginess, miserliness (macchera - stinginess)
+        dadato: of a giver, of a donor (dāyaka - giver)
+        malaṁ: stain (mala - stain)
+
+    Malā ve pāpakā dhammā,
+        Malā: stains (mala - stain)
+        ve: indeed, truly (ve - indeed)
+        pāpakā: evil, bad (pāpa - evil)
+        dhammā: qualities, states (dhamma - quality, state)
+
+    asmiṁ loke paramhi ca.
+        asmiṁ: in this (asmiṁ - in this)
+        loke: world (loka - world)
+        paramhi: in the next (parama - next)
+        ca: and (ca - and)
   
 Tato malā malataraṁ,  
 avijjā paramaṁ malaṁ;  
@@ -7047,6 +7213,26 @@ is ignorance, the worst stain of all.
 Having given up that stain,  
 be without stains, mendicants!  
   
+    Tato malā malataraṁ,
+        Tato: than that (tato - than that)
+        malā: stains (mala - stain)
+        malataraṁ: worse, more serious (mala - stain; tara - more)
+
+    avijjā paramaṁ malaṁ;
+        avijjā: ignorance (avijjā - ignorance)
+        paramaṁ: highest, supreme (parama - highest, supreme)
+        malaṁ: stain (mala - stain)
+
+    Etaṁ malaṁ pahantvāna,
+        Etaṁ: this (etaṁ - this)
+        malaṁ: stain (mala - stain)
+        pahantvāna: having abandoned, having given up (pahāna - to abandon, to give up)
+
+    nimmalā hotha bhikkhavo.
+        nimmalā: without stains, pure (ni - without; mala - stain)
+        hotha: be (hoti - to be)
+        bhikkhavo: mendicants, monks (bhikkhu - mendicant, monk)
+  
 Sujīvaṁ ahirikena,  
 kākasūrena dhaṁsinā;  
 Pakkhandinā pagabbhena,  
@@ -7056,6 +7242,22 @@ Life is easy for the shameless.
 With all the rude courage of a crow,  
 they live pushy,  
 rude, and corrupt.  
+  
+    Sujīvaṁ ahirikena,
+        Sujīvaṁ: easy life (su - good; jīva - life)
+        ahirikena: for the shameless one (ahirika - shameless)
+
+    kākasūrena dhaṁsinā;
+        kākasūrena: with the courage of a crow (kāka - crow; sūra - courage)
+        dhaṁsinā: insolent, audacious (dhaṁsī - insolent, audacious)
+
+    Pakkhandinā pagabbhena,
+        Pakkhandinā: deceitful, hypocritical (pakkhandī - hypocrite)
+        pagabbhena: impudent, pushy (pagabbha - impudent)
+
+    saṅkiliṭṭhena jīvitaṁ.
+        saṅkiliṭṭhena: corrupted (saṅkiliṭṭha - corrupted)
+        jīvitaṁ: life (jīvita - life)
   
 Hirīmatā ca dujjīvaṁ,  
 niccaṁ sucigavesinā;  
@@ -7067,6 +7269,23 @@ always seeking purity,
 neither clinging nor rude,  
 pure of livelihood and discerning.  
   
+    Hirīmatā ca dujjīvaṁ,
+        Hirīmatā: for the conscientious one (hirī - conscience, shame from wrong; mata - having)
+        ca: and
+        dujjīvaṁ: difficult is the life (du - bad, difficult; jīva - life)
+
+    niccaṁ sucigavesinā;
+        niccaṁ: always, continually (nicca - always)
+        sucigavesinā: for the one seeking purity (suci - pure, clean; gavesin - seeking)
+
+    Alīnenāppagabbhena,
+        Alīnenā: not-clinging (aliīna - not clinging)
+        appagabbhena: not impudent, not rude (appa - little, not much; gabbha - impudence)
+
+    suddhājīvena passatā.
+        suddhājīvena: with pure livelihood (suddha - pure; ājīva - livelihood)
+        passatā: discerning, seeing clearly (passati - sees, discerns)
+  
 Yo pāṇamatipāteti,  
 musāvādañca bhāsati;  
 Loke adinnamādiyati,  
@@ -7076,6 +7295,22 @@ Take anyone in this world
 who kills living creatures,  
 speaks falsely, steals,  
 commits adultery,  
+  
+    Yo pāṇamatipāteti,
+        Yo: who, whoever
+        pāṇamatipāteti: kills living beings (pāṇa - living being; atipāteti - kills)
+
+    musāvādañca bhāsati;
+        musāvādañca: and speaks falsehood (musāvāda - falsehood, lying; ca - and)
+        bhāsati: speaks
+
+    Loke adinnamādiyati,
+        Loke: in the world
+        adinnamādiyati: takes what is not given (adinnam - not given; ādiyati - takes, steals)
+
+    paradārañca gacchati.
+        paradārañca: and goes to another's wife (paradāra - another's wife; ca - and)
+        gacchati: goes
   
 Surāmerayapānañca,  
 yo naro anuyuñjati;  
@@ -7087,6 +7322,24 @@ alcohol and liquor.
 Right here they dig up  
 the root of their own self.  
   
+    Surāmerayapānañca,
+        Surāmerayapānañca: and drinking alcohol (surāmeraya - alcohol; pāna - drinking; ca - and)
+
+    yo naro anuyuñjati;
+        yo: who, whoever
+        naro: person, man
+        anuyuñjati: indulges in, engages in
+
+    Idheva meso lokasmiṁ,
+        Idheva: right here, in this very place
+        meso: they, this person
+        lokasmiṁ: in the world, in existence
+
+    mūlaṁ khaṇati attano.
+        mūlaṁ: root, origin
+        khaṇati: dig up, remove
+        attano: their own, self
+  
 Evaṁ bho purisa jānāhi,  
 pāpadhammā asaññatā;  
 Mā taṁ lobho adhammo ca,  
@@ -7096,6 +7349,28 @@ Know this, good sir:
 they are unrestrained and wicked.  
 Don’t let greed and hate  
 subject you to pain for long.  
+  
+    Evaṁ bho purisa jānāhi,
+        Evaṁ: thus, in this way
+        bho: O, (an addressing term)
+        purisa: man, person
+        jānāhi: know, understand
+
+    pāpadhammā asaññatā;
+        pāpadhammā: wicked actions, evil behavior (pāpa - evil, bad; dhammā - actions, behaviors)
+        asaññatā: unrestrained, uncontrolled
+
+    Mā taṁ lobho adhammo ca,
+        Mā: don't, do not
+        taṁ: you, (referring to the addressed person)
+        lobho: greed
+        adhammo: wrongdoing, unrighteousness (a - not; dhammo - righteousness)
+        ca: and
+
+    ciraṁ dukkhāya randhayuṁ.
+        ciraṁ: long, for a long time
+        dukkhāya: pain, suffering
+        randhayuṁ: subject to, lead to, oppress
   
 Dadāti ve yathāsaddhaṁ,  
 yathāpasādanaṁ jano;  
@@ -7111,6 +7386,38 @@ over other’s food and drink,
 you’ll not, by day or by night,  
 become immersed in samādhi.  
   
+    Dadāti ve yathāsaddhaṁ,
+        Dadāti: gives, donates
+        ve: indeed, truly
+        yathāsaddhaṁ: according to faith (yathā - according to, saddhaṁ - faith)
+
+    yathāpasādanaṁ jano;
+        yathāpasādanaṁ: according to confidence (yathā - according to, pasādanaṁ - confidence)
+        jano: people, individuals
+
+    Tattha yo ca maṅku bhavati,
+        Tattha: there, in that
+        yo: who
+        ca: and
+        maṅku: upset, dissatisfied
+        bhavati: becomes, is
+
+    paresaṁ pānabhojane;
+        paresaṁ: of others
+        pānabhojane: in food and drink (pāna - drink, bhojane - food)
+
+    Na so divā vā rattiṁ vā,
+        Na: not
+        so: he, that person
+        divā: by day
+        vā: or
+        rattiṁ: by night
+        vā: or
+
+    samādhimadhigacchati.
+        samādhim: immersion, concentration, samādhi
+        adhigacchati: attains, achieves, reaches
+  
 Yassa cetaṁ samucchinnaṁ,  
 mūlaghaccaṁ samūhataṁ;  
 Sa ve divā vā rattiṁ vā,  
@@ -7121,6 +7428,27 @@ dug it up at the root, eradicated it,
 they will, by day or by night,  
 become immersed in samādhi.  
   
+    Yassa cetaṁ samucchinnaṁ,
+        Yassa: who, whose
+        cetaṁ: this
+        samucchinnaṁ: is cut off, removed
+
+    mūlaghaccaṁ samūhataṁ;
+        mūlaghaccaṁ: at the root (mūla - root, ghaccaṁ - having grown)
+        samūhataṁ: eradicated, removed
+
+    Sa ve divā vā rattiṁ vā,
+        Sa: they
+        ve: indeed, truly
+        divā: by day
+        vā: or
+        rattiṁ: by night
+        vā: or
+
+    samādhimadhigacchati.
+        samādhim: immersion, concentration, samādhi
+        adhigacchati: attains, achieves, reaches
+  
 Natthi rāgasamo aggi,  
 natthi dosasamo gaho;  
 Natthi mohasamaṁ jālaṁ,  
@@ -7130,6 +7458,26 @@ There is no fire like greed,
 no crime like hate,  
 no net like delusion,  
 no river like craving.  
+  
+    Natthi rāgasamo aggi,
+        Natthi: There is not, there is no
+        rāgasamo: like greed (rāga - greed, lust; samo - like, equal to)
+        aggi: fire
+
+    natthi dosasamo gaho;
+        natthi: there is not, there is no
+        dosasamo: like hatred (dosa - hatred; samo - like, equal to)
+        gaho: snare, trap (or in a broader sense, crime)
+
+    Natthi mohasamaṁ jālaṁ,
+        Natthi: There is not, there is no
+        mohasamaṁ: like delusion (moha - delusion; samaṁ - like, equal to)
+        jālaṁ: net
+
+    natthi taṇhāsamā nadī.
+        natthi: there is not, there is no
+        taṇhāsamā: like craving (taṇhā - craving, thirst; samā - like, equal to)
+        nadī: river
   
 Sudassaṁ vajjamaññesaṁ,  
 attano pana duddasaṁ;  
@@ -7145,6 +7493,36 @@ are tossed high like chaff,
 while one’s own are hidden,  
 as a cheat hides a bad hand.  
   
+    Sudassaṁ vajjamaññesaṁ,
+        Sudassaṁ: easy to see (su - good, dasaṁ - seen)
+        vajjamaññesaṁ: the faults of others (vajja - fault, mistake; aññesaṁ - of others)
+
+    attano pana duddasaṁ;
+        attano: one's own
+        pana: however, but
+        duddasaṁ: hard to see (du - bad, difficult, dasaṁ - seen)
+
+    Paresaṁ hi so vajjāni,
+        Paresaṁ: of others
+        hi: indeed, for
+        so: those
+        vajjāni: faults
+
+    opunāti yathā bhusaṁ;
+        opunāti: he tosses up, he throws up
+        yathā: like, as
+        bhusaṁ: chaff
+
+    Attano pana chādeti,
+        Attano: one's own
+        pana: however, but
+        chādeti: he hides
+
+    kaliṁva kitavā saṭho.
+        kaliṁva: like a fraud (kali - fraud, deceit; va - like)
+        kitavā: a cheat, a trickster
+        saṭho: deceitful, fraudulent
+  
 Paravajjānupassissa,  
 niccaṁ ujjhānasaññino;  
 Āsavā tassa vaḍḍhanti,  
@@ -7154,6 +7532,23 @@ When you look for the flaws of others,
 always finding fault,  
 your defilements only grow,  
 you’re far from ending defilements.  
+  
+    Paravajjānupassissa,
+        Paravajjānupassissa: for the one observing the faults of others (paravajjā - faults of others; anupassissa - observing, seeing)
+
+    niccaṁ ujjhānasaññino;
+        niccaṁ: always, constantly
+        ujjhānasaññino: finding fault (ujjhāna - finding fault; saññino - perceives)
+
+    Āsavā tassa vaḍḍhanti,
+        Āsavā: defilements, impurities
+        tassa: his, of him
+        vaḍḍhanti: grow, increase
+
+    ārā so āsavakkhayā.
+        ārā: far, distant
+        so: he is
+        āsavakkhayā: from the destruction of defilements (āsava - defilements; khayā - destruction)
   
 Ākāseva padaṁ natthi,  
 samaṇo natthi bāhire;  
@@ -7165,6 +7560,24 @@ there’s no true ascetic outside here.
 People enjoy proliferation,  
 the Realized Ones are free of proliferation.  
   
+    Ākāseva padaṁ natthi,
+        Ākāseva: in the sky (ākāse - in the sky; eva - indeed)
+        padaṁ: track, trace
+        natthi: there is not
+
+    samaṇo natthi bāhire;
+        samaṇo: ascetic, recluse
+        natthi: there is not
+        bāhire: outside, externally
+
+    Papañcābhiratā pajā,
+        Papañcābhiratā: delight in proliferation (papañcā - proliferation, conceptual proliferation; abhiratā - delighting in)
+        pajā: people, beings
+
+    nippapañcā tathāgatā.
+        nippapañcā: free from proliferation (nippapañcā - without proliferation)
+        tathāgatā: the thus-gone, the Realized Ones, a term for enlightened beings.
+  
 Ākāseva padaṁ natthi,  
 samaṇo natthi bāhire;  
 Saṅkhārā sassatā natthi,  
@@ -7175,7 +7588,30 @@ In the sky there is no track,
 there’s no true ascetic outside here.  
 No conditions last forever,  
 the Awakened Ones are not shaken.  
+  
+    Ākāseva padaṁ natthi,
+        Ākāseva: in the sky (ākāse - in the sky; eva - indeed)
+        padaṁ: track, trace
+        natthi: there is not
 
+    samaṇo natthi bāhire;
+        samaṇo: ascetic, recluse
+        natthi: there is not
+        bāhire: outside, externally
+
+    Saṅkhārā sassatā natthi,
+        Saṅkhārā: conditioned phenomena, fabrications
+        sassatā: eternal, lasting forever
+        natthi: there is not
+
+    natthi buddhānamiñjitaṁ.
+        natthi: there is not
+        buddhānamiñjitaṁ: shaken or moved by the Awakened ones (buddhāna - of the Awakened ones; iñjitaṁ - shaken, moved)
+
+    Malavaggo aṭṭhārasamo.
+        Malavaggo: Stain chapter
+        aṭṭhārasamo: Eighteenth (aṭṭhārasa - eighteen; -mo - ordinal suffix)
+  
 ### 19. Dhammaṭṭhavagga: The Just
 
 Na tena hoti dhammaṭṭho,  
@@ -7188,6 +7624,28 @@ by passing hasty judgement.
 An astute person evaluates both  
 what is pertinent and what is irrelevant.  
   
+    Na tena hoti dhammaṭṭho,
+        Na: not
+        tena: by that, with that
+        hoti: becomes, is
+        dhammaṭṭho: just, righteous (from dhamma - righteousness, justice; aṭṭho - established in)
+
+    yenatthaṁ sāhasā naye;
+        yenatthaṁ: hasty judgement (yena - by which; atthaṁ - judgement)
+        sāhasā: hastily, abruptly
+        naye: leads, brings forth
+
+    Yo ca atthaṁ anatthañca,
+        Yo: who
+        ca: and
+        atthaṁ: what is beneficial, what is pertinent
+        anatthañca: and what is not beneficial, what is irrelevant
+
+    ubho niccheyya paṇḍito.
+        ubho: both
+        niccheyya: evaluates, determines (from the verb nicchindati - to cut off, decide, determine)
+        paṇḍito: wise person, astute
+  
 Asāhasena dhammena,  
 samena nayatī pare;  
 Dhammassa gutto medhāvī,  
@@ -7198,6 +7656,25 @@ justly and impartially;
 that guardian of the law  
 is said to be just.  
   
+    Asāhasena dhammena,
+        Asāhasena: without haste, unhurriedly
+        dhammena: with justice, with the law, with righteousness
+
+    samena nayatī pare;
+        samena: impartially, equitably (from sama - equal, impartial)
+        nayatī: judges, leads
+        pare: others
+
+    Dhammassa gutto medhāvī,
+        Dhammassa: of the law, of righteousness
+        gutto: guardian, protector
+        medhāvī: wise one, intelligent person
+
+    “dhammaṭṭho”ti pavuccati.
+        dhammaṭṭho: just, established in righteousness (from dhamma - righteousness, justice; aṭṭho - established in)
+        ti: thus, therefore
+        pavuccati: is called, is said to be
+  
 Na tena paṇḍito hoti,  
 yāvatā bahu bhāsati;  
 Khemī averī abhayo,  
@@ -7207,6 +7684,27 @@ You’re not an astute scholar
 just because you speak a lot.  
 One who is secure, free of enmity and fear,  
 is said to be astute.  
+  
+    Na tena paṇḍito hoti,
+        Na: not
+        tena: by that, with that
+        paṇḍito: scholar, wise, learned
+        hoti: is, becomes
+
+    yāvatā bahu bhāsati;
+        yāvatā: as much as, just because
+        bahu: much, many, a lot
+        bhāsati: speaks, talks
+
+    Khemī averī abhayo,
+        Khemī: secure, safe, in peace
+        averī: free of enmity, without hate
+        abhayo: fearless, free from fear
+
+    “paṇḍito”ti pavuccati.
+        paṇḍito: scholar, wise, learned
+        ti: thus, therefore
+        pavuccati: is called, is said to be
   
 Na tāvatā dhammadharo,  
 yāvatā bahu bhāsati;  
@@ -7222,6 +7720,38 @@ after hearing only a little
 is truly one who has memorized the teaching,  
 for they can never forget it.  
   
+    Na tāvatā dhammadharo,
+        Na: not
+        tāvatā: to that extent, just because
+        dhammadharo: one who has memorized the teaching, bearer of the truth
+
+    yāvatā bahu bhāsati;
+        yāvatā: as much as, just because
+        bahu: much, many, a lot
+        bhāsati: speaks, talks
+
+    Yo ca appampi sutvāna,
+        Yo: who, someone
+        ca: and, also
+        appampi: only a little, a small amount
+        sutvāna: having heard, after hearing
+
+    dhammaṁ kāyena passati;
+        dhammaṁ: the teaching, the truth
+        kāyena: with body, directly
+        passati: sees, perceives
+
+    Sa ve dhammadharo hoti,
+        Sa: he, that person
+        ve: truly, indeed
+        dhammadharo: one who has memorized the teaching, bearer of the truth
+        hoti: is, becomes
+
+    yo dhammaṁ nappamajjati.
+        yo: who, one
+        dhammaṁ: the teaching, the truth
+        nappamajjati: cannot forget, does not neglect
+  
 Na tena thero so hoti,  
 yenassa palitaṁ siro;  
 Paripakko vayo tassa,  
@@ -7231,6 +7761,28 @@ You don’t become a senior
 by getting some grey hairs;  
 for one ripe only in age,  
 is said to have aged in vain.  
+  
+    Na tena thero so hoti,
+        Na: not
+        tena: by that, through that
+        thero: senior, elder
+        so: he, that
+        hoti: is, becomes
+
+    yenassa palitaṁ siro;
+        yenassa: of whom, whose
+        palitaṁ: gray, gray-haired
+        siro: head
+
+    Paripakko vayo tassa,
+        Paripakko: ripe, matured
+        vayo: age
+        tassa: of that, his
+
+    “moghajiṇṇo”ti vuccati.
+        moghajiṇṇo: aged in vain, fruitlessly old
+        ti: is said, called
+        vuccati: is said, is called
   
 Yamhi saccañca dhammo ca,  
 ahiṁsā saṁyamo damo;  
@@ -7242,6 +7794,28 @@ harmlessness, restraint, and self-control,
 that wise one, purged of stains,  
 is said to be a senior.  
   
+    Yamhi saccañca dhammo ca,
+        Yamhi: in whom
+        saccañca: truth and
+        dhammo: dharma, principle, virtue
+        ca: and
+
+    ahiṁsā saṁyamo damo;
+        ahiṁsā: non-violence, harmlessness
+        saṁyamo: restraint
+        damo: self-control, taming
+
+    Sa ve vantamalo dhīro,
+        Sa: he, that
+        ve: indeed
+        vantamalo: purged of stains, without impurity
+        dhīro: wise one, brave one
+
+    “thero” iti pavuccati.
+        thero: elder, senior
+        iti: thus
+        pavuccati: is called, is said
+  
 Na vākkaraṇamattena,  
 vaṇṇapokkharatāya vā;  
 Sādhurūpo naro hoti,  
@@ -7251,6 +7825,20 @@ Not by mere eloquence,
 or a beautiful complexion  
 does a person appear holy,  
 if they’re jealous, stingy, and devious.  
+  
+    Na vākkaraṇamattena, vaṇṇapokkharatāya vā;
+        Na: not
+        vākkaraṇamattena: by mere eloquence (vāk = speech, karaṇa = doing, making; mattena = merely)
+        vaṇṇapokkharatāya: or by a beautiful complexion (vaṇṇa = color, complexion; pokkharatāya = beauty, lotus-like)
+        vā: or
+
+    Sādhurūpo naro hoti, issukī maccharī saṭho.
+        Sādhurūpo: appears holy, seems virtuous (sādhu = good, virtuous; rūpo = form, appearance)
+        naro: person
+        hoti: is, becomes
+        issukī: jealous
+        maccharī: stingy, miserly
+        saṭho: devious, deceitful
   
 Yassa cetaṁ samucchinnaṁ,  
 mūlaghaccaṁ samūhataṁ;  
@@ -7262,6 +7850,20 @@ dug it up at the root, eradicated it,
 that wise one, purged of vice,  
 is said to be holy.  
   
+    Yassa cetaṁ samucchinnaṁ, mūlaghaccaṁ samūhataṁ;
+        Yassa: of whom
+        cetaṁ: this
+        samucchinnaṁ: is cut off
+        mūlaghaccaṁ: at the root (mūla = root; ghaccaṁ = going down to, extending to)
+        samūhataṁ: eradicated, removed
+
+    Sa vantadoso medhāvī, “sādhurūpo”ti vuccati.
+        Sa: that person
+        vantadoso: purged of vice, rid of stains (vanta = gone, removed; doso = fault, vice)
+        medhāvī: wise
+        “sādhurūpo”ti: appears holy (sādhu = good, virtuous; rūpo = form, appearance)
+        vuccati: is said
+  
 Na muṇḍakena samaṇo,  
 abbato alikaṁ bhaṇaṁ;  
 Icchālobhasamāpanno,  
@@ -7271,6 +7873,20 @@ A liar and breaker of vows is no ascetic
 just because they shave their head.  
 How on earth can one be an ascetic  
 who’s full of desire and greed?  
+  
+    Na muṇḍakena samaṇo, abbato alikaṁ bhaṇaṁ;
+        Na: not
+        muṇḍakena: by the shaving (of the head), with a shaved head (muṇḍa = bald; kena = with)
+        samaṇo: an ascetic, a monk
+        abbato: breaker of vows, unkept
+        alikaṁ: false
+        bhaṇaṁ: speaking, lies
+
+    Icchālobhasamāpanno, samaṇo kiṁ bhavissati.
+        Icchālobhasamāpanno: being full of desire and greed (icchā = desire; lobha = greed; samāpanno = entered into, full of)
+        samaṇo: an ascetic, a monk
+        kiṁ: what, how
+        bhavissati: will be, can be
   
 Yo ca sameti pāpāni,  
 aṇuṁthūlāni sabbaso;  
@@ -7282,6 +7898,21 @@ great and small,
 because of stopping wicked deeds  
 is said to be an ascetic.  
   
+    Yo ca sameti pāpāni, aṇuṁthūlāni sabbaso;
+        Yo: who
+        ca: and
+        sameti: stops, quells
+        pāpāni: wicked deeds, evil actions
+        aṇuṁthūlāni: great and small (aṇu = small; thūla = great)
+        sabbaso: entirely, in all respects
+
+    Samitattā hi pāpānaṁ, “samaṇo”ti pavuccati.
+        Samitattā: because of stopping (samita = stopped; attā = self)
+        hi: indeed
+        pāpānaṁ: of wicked deeds, of evil actions
+        “samaṇo”ti: is called an ascetic (samaṇa = ascetic)
+        pavuccati: is said to be, is called
+  
 Na tena bhikkhu so hoti,  
 yāvatā bhikkhate pare;  
 Vissaṁ dhammaṁ samādāya,  
@@ -7291,6 +7922,25 @@ You don’t become a mendicant
 just by begging from others.  
 One who has undertaken domestic duties  
 has not yet become a mendicant.  
+  
+    Na tena bhikkhu so hoti, yāvatā bhikkhate pare;
+        Na: not
+        tena: by that, through that
+        bhikkhu: mendicant, monk
+        so: he
+        hoti: becomes
+        yāvatā: just by, to the extent that
+        bhikkhate: begs, seeks alms
+        pare: others
+
+    Vissaṁ dhammaṁ samādāya, bhikkhu hoti na tāvatā.
+        Vissaṁ: domestic, household
+        dhammaṁ: duties, affairs
+        samādāya: undertaking, having adopted
+        bhikkhu: mendicant, monk
+        hoti: becomes
+        na: not
+        tāvatā: yet, to that extent
   
 Yodha puññañca pāpañca,  
 bāhetvā brahmacariyavā;  
@@ -7302,6 +7952,22 @@ who has banished both merit and evil,
 who wanders having assessed the world,  
 is said to be a mendicant.  
   
+    Yodha puññañca pāpañca, bāhetvā brahmacariyavā;
+        Yodha: one who, the one
+        puññañca: merit, wholesome deeds
+        pāpañca: evil, unwholesome deeds
+        bāhetvā: having banished, having abandoned
+        brahmacariyavā: living a spiritual life, practicing celibacy
+
+    Saṅkhāya loke carati, sa ve “bhikkhū”ti vuccati.
+        Saṅkhāya: having assessed, having understood
+        loke: the world
+        carati: wanders, conducts oneself
+        sa: he, that one
+        ve: indeed, truly
+        “bhikkhū”ti: a mendicant, a monk
+        vuccati: is said, is called
+  
 Na monena munī hoti,  
 mūḷharūpo aviddasu;  
 Yo ca tulaṁva paggayha,  
@@ -7311,6 +7977,22 @@ You don’t become a sage by silence,
 while still confused and ignorant.  
 The astute one holds up the scales,  
 taking only the best,  
+  
+    Na monena munī hoti, mūḷharūpo aviddasu;
+        Na: not, doesn't
+        monena: by silence, by being silent
+        munī: a sage, a wise one
+        hoti: become, is
+        mūḷharūpo: confused, deluded
+        aviddasu: in ignorance, ignorant
+
+    Yo ca tulaṁva paggayha, varamādāya paṇḍito.
+        Yo: who, the one
+        ca: and
+        tulaṁva: scales, as if with a balance
+        paggayha: holding up, grasping
+        varamādāya: taking the best, selecting the superior
+        paṇḍito: wise, astute, intelligent
   
 Pāpāni parivajjeti,  
 sa munī tena so muni;  
@@ -7322,6 +8004,24 @@ a sage becomes a sage by measuring.
 One who measures good and bad in the world,  
 is thereby said to be a sage.  
   
+    Pāpāni parivajjeti, sa munī tena so muni;
+        Pāpāni: the bad, evil, wickedness
+        parivajjeti: rejects, avoids, abstains from
+        sa: he, that
+        munī: a sage, a wise one
+        tena: by this, thereby
+        so: he, that
+        muni: a sage, a wise one
+
+    Yo munāti ubho loke, “muni” tena pavuccati.
+        Yo: who, the one
+        munāti: measures, evaluates
+        ubho: both, two
+        loke: in the world, worlds
+        muni: a sage, a wise one
+        tena: by this, thereby
+        pavuccati: is said, is called
+  
 Na tena ariyo hoti,  
 yena pāṇāni hiṁsati;  
 Ahiṁsā sabbapāṇānaṁ,  
@@ -7331,6 +8031,22 @@ You don’t become a noble one
 by harming living beings.  
 One harmless towards all living beings  
 is said to be a noble one.  
+  
+    Na tena ariyo hoti, yena pāṇāni hiṁsati;
+        Na: not
+        tena: by that
+        ariyo: noble one, the honorable
+        hoti: becomes, is
+        yena: by which, whereby
+        pāṇāni: living beings, creatures
+        hiṁsati: harms, hurts
+
+    Ahiṁsā sabbapāṇānaṁ, “ariyo”ti pavuccati.
+        Ahiṁsā: harmlessness, non-violence
+        sabbapāṇānaṁ: towards all living beings, of all creatures
+        ariyo: noble one, the honorable
+        ti: thus, so
+        pavuccati: is said, is called
   
 Na sīlabbatamattena,  
 bāhusaccena vā pana;  
@@ -7342,6 +8058,20 @@ nor by much learning,
 nor by meditative immersion,  
 nor by living in seclusion,  
   
+    Na sīlabbatamattena, bāhusaccena vā pana;
+        Na: not
+        sīlabbatamattena: by mere observance of precepts and rituals, by moral habits and rites alone
+        bāhusaccena: by much learning, by extensive knowledge
+        vā: or
+        pana: again, moreover
+
+    Atha vā samādhilābhena, vivittasayanena vā.
+        Atha: and then, and also
+        vā: or
+        samādhilābhena: by attainment of concentration, by gain in meditation
+        vivittasayanena: by living in solitude, by secluded dwelling
+        vā: or
+  
 Phusāmi nekkhammasukhaṁ,  
 aputhujjanasevitaṁ;  
 Bhikkhu vissāsamāpādi,  
@@ -7352,7 +8082,22 @@ do I experience the bliss of renunciation
 not frequented by ordinary people.  
 A mendicant cannot rest confident  
 without attaining the end of defilements.  
+  
+    Phusāmi nekkhammasukhaṁ, aputhujjanasevitaṁ;
+        Phusāmi: I experience, I touch
+        nekkhammasukhaṁ: the bliss of renunciation, the happiness of giving up
+        aputhujjanasevitaṁ: not frequented by ordinary people, not pursued by the many
 
+    Bhikkhu vissāsamāpādi, appatto āsavakkhayaṁ.
+        Bhikkhu: a mendicant, a monk
+        vissāsamāpādi: should attain confidence, cannot rest confident
+        appatto: without reaching, not having attained
+        āsavakkhayaṁ: the end of defilements, the destruction of taints
+
+    Dhammaṭṭhavaggo ekūnavīsatimo.
+        Dhammaṭṭhavaggo: the chapter on justice in Dhamma
+        ekūnavīsatimo: the nineteenth
+  
 ### 20. Maggavagga: The Path
 
 Maggānaṭṭhaṅgiko seṭṭho,  
@@ -7365,6 +8110,20 @@ of truths, the four statements;
 dispassion is the best of things,  
 and the Seer is the best of humans.  
   
+    Maggānaṭṭhaṅgiko seṭṭho, saccānaṁ caturo padā;
+        Maggānaṭṭhaṅgiko: eightfold path (of the path-eightfold)
+        seṭṭho: is the best, is superior
+        saccānaṁ: of truths
+        caturo: four
+        padā: statements, parts, stages
+
+    Virāgo seṭṭho dhammānaṁ, dvipadānañca cakkhumā.
+        Virāgo: dispassion, fading away of lust
+        seṭṭho: is the best, is superior
+        dhammānaṁ: of things, of qualities
+        dvipadānañca: of humans (literally "of two-footed ones")
+        cakkhumā: the Seer, the one with sight
+  
 Eseva maggo natthañño,  
 Dassanassa visuddhiyā;  
 Etañhi tumhe paṭipajjatha,  
@@ -7374,6 +8133,20 @@ This is the path, there is no other
 for the purification of vision.  
 You all must practice this,  
 it is the way to baffle Māra.  
+  
+    Eseva maggo natthañño, Dassanassa visuddhiyā;
+        Eseva: this itself, this only
+        maggo: path, way
+        natthañño: there is no other
+        Dassanassa: of vision, of insight
+        visuddhiyā: for the purification, for the clarity
+
+    Etañhi tumhe paṭipajjatha, Mārassetaṁ pamohanaṁ.
+        Etañhi: indeed this
+        tumhe: you all
+        paṭipajjatha: must practice, should walk
+        Mārassetaṁ: of Mara, this
+        pamohanaṁ: confusion, delusion, to baffle
   
 Etañhi tumhe paṭipannā,  
 dukkhassantaṁ karissatha;  
@@ -7385,6 +8158,21 @@ you will make an end of suffering.
 I have explained the path to you  
 for extracting the thorn with wisdom.  
   
+    Etañhi tumhe paṭipannā, dukkhassantaṁ karissatha;
+        Etañhi: indeed this
+        tumhe: you all
+        paṭipannā: practicing, walking
+        dukkhassantaṁ: the end of suffering
+        karissatha: will make, will accomplish
+
+    Akkhāto vo mayā maggo, aññāya sallakantanaṁ.
+        Akkhāto: explained, told
+        vo: to you
+        mayā: by me
+        maggo: path, way
+        aññāya: with wisdom, with insight
+        sallakantanaṁ: extracting the thorn, removing the dart
+  
 Tumhehi kiccamātappaṁ,  
 akkhātāro tathāgatā;  
 Paṭipannā pamokkhanti,  
@@ -7394,6 +8182,18 @@ You yourselves must do the work,
 the Realized Ones just show the way.  
 Meditators practicing absorption  
 are released from Māra’s bonds.  
+  
+    Tumhehi kiccamātappaṁ, akkhātāro tathāgatā;
+        Tumhehi: by you, yourselves
+        kiccamātappaṁ: must do the work, it's your task
+        akkhātāro: explainers, teachers
+        tathāgatā: thus-gone ones, realized ones
+
+    Paṭipannā pamokkhanti, jhāyino mārabandhanā.
+        Paṭipannā: practicing, walking on the path
+        pamokkhanti: are released, are liberated
+        jhāyino: meditators, practicing absorption
+        mārabandhanā: from Mara's bonds, from the bondage of death
   
 “Sabbe saṅkhārā aniccā”ti,  
 yadā paññāya passati;  
@@ -7405,6 +8205,22 @@ when this is seen with wisdom,
 one grows disillusioned with suffering:  
 this is the path to purity.  
   
+    "Sabbe saṅkhārā aniccā”ti, yadā paññāya passati;
+        Sabbe: all
+        saṅkhārā: conditions, conditioned phenomena
+        aniccā: impermanent
+        yadā: when
+        paññāya: with wisdom
+        passati: one sees, is seen
+
+    Atha nibbindati dukkhe, esa maggo visuddhiyā.
+        Atha: then
+        nibbindati: one becomes disillusioned, gets wearied
+        dukkhe: in suffering, with pain
+        esa: this
+        maggo: path
+        visuddhiyā: to purity, to purification
+  
 “Sabbe saṅkhārā dukkhā”ti,  
 yadā paññāya passati;  
 Atha nibbindati dukkhe,  
@@ -7414,6 +8230,22 @@ All conditions are suffering—
 when this is seen with wisdom,  
 one grows disillusioned with suffering:  
 this is the path to purity.  
+  
+    "Sabbe saṅkhārā dukkhā”ti, yadā paññāya passati;
+        Sabbe: all
+        saṅkhārā: conditions, conditioned phenomena
+        dukkhā: suffering, pain
+        yadā: when
+        paññāya: with wisdom
+        passati: one sees, is seen
+
+    Atha nibbindati dukkhe, esa maggo visuddhiyā.
+        Atha: then
+        nibbindati: one becomes disillusioned, gets wearied
+        dukkhe: in suffering, with pain
+        esa: this
+        maggo: path
+        visuddhiyā: to purity, to purification
   
 “Sabbe dhammā anattā”ti,  
 yadā paññāya passati;  
@@ -7425,6 +8257,22 @@ when this is seen with wisdom,
 one grows disillusioned with suffering:  
 this is the path to purity.  
   
+    "Sabbe dhammā anattā”ti, yadā paññāya passati;
+        Sabbe: all
+        dhammā: things, phenomena
+        anattā: not-self, non-self
+        yadā: when
+        paññāya: with wisdom
+        passati: one sees, is seen
+
+    Atha nibbindati dukkhe, esa maggo visuddhiyā.
+        Atha: then
+        nibbindati: one becomes disillusioned, gets wearied
+        dukkhe: in suffering, with pain
+        esa: this
+        maggo: path
+        visuddhiyā: to purity, to purification
+  
 Uṭṭhānakālamhi anuṭṭhahāno,  
 Yuvā balī ālasiyaṁ upeto;  
 Saṁsannasaṅkappamano kusīto,  
@@ -7435,6 +8283,23 @@ they’re young and strong, but given to sloth.
 Their mind depressed in sunken thought,  
 lazy and slothful, they can’t discern the path.  
   
+    Uṭṭhānakālamhi anuṭṭhahāno, Yuvā balī ālasiyaṁ upeto;
+        Uṭṭhānakālamhi: when it's time to start, at the time of rising
+        anuṭṭhahāno: not getting going, not diligent
+        Yuvā: young
+        balī: strong
+        ālasiyaṁ: sloth, laziness
+        upeto: given to, attached to
+
+    Saṁsannasaṅkappamano kusīto, Paññāya maggaṁ alaso na vindati.
+        Saṁsannasaṅkappamano: mind depressed in sunken thought
+        kusīto: lazy
+        Paññāya: discern, with wisdom
+        maggaṁ: path
+        alaso: slothful, lazy
+        na: not
+        vindati: finds, obtains
+  
 Vācānurakkhī manasā susaṁvuto,  
 Kāyena ca nākusalaṁ kayirā;  
 Ete tayo kammapathe visodhaye,  
@@ -7444,6 +8309,23 @@ Guarded in speech, restrained in mind,
 doing no unskillful bodily deed.  
 Purify these three ways of performing deeds,  
 and win the path known to hermits.  
+  
+    Vācānurakkhī manasā susaṁvuto, Kāyena ca nākusalaṁ kayirā;
+        Vācānurakkhī: guarded in speech
+        manasā: with mind
+        susaṁvuto: well-restrained
+        Kāyena: with the body
+        ca: and
+        nākusalaṁ: unskillful, evil
+        kayirā: should do, act
+
+    Ete tayo kammapathe visodhaye, Ārādhaye maggamisippaveditaṁ.
+        Ete: these
+        tayo: three
+        kammapathe: ways of performing deeds, actions
+        visodhaye: purify, cleanse
+        Ārādhaye: win, succeed, attain
+        maggamisippaveditaṁ: the path known to hermits
   
 Yogā ve jāyatī bhūri,  
 ayogā bhūrisaṅkhayo;  
@@ -7459,6 +8341,29 @@ of progress and decline—
 you should conduct yourself  
 so that wisdom grows.  
   
+    Yogā ve jāyatī bhūri, ayogā bhūrisaṅkhayo;
+        Yogā: from meditation, from the yoke (also referring to a discipline or practice)
+        ve: indeed
+        jāyatī: springs, arises
+        bhūri: wisdom
+        ayogā: without meditation
+        bhūrisaṅkhayo: wisdom ends, wisdom wanes
+
+    Etaṁ dvedhāpathaṁ ñatvā, bhavāya vibhavāya ca;
+        Etaṁ: this
+        dvedhāpathaṁ: two paths
+        ñatvā: knowing, understanding
+        bhavāya: of progress, of existence
+        vibhavāya: decline, dissolution
+        ca: and
+
+    Tathāttānaṁ niveseyya, yathā bhūri pavaḍḍhati.
+        Tathāttānaṁ: oneself thus
+        niveseyya: should conduct, should direct
+        yathā: so that, as
+        bhūri: wisdom
+        pavaḍḍhati: grows, increases
+  
 Vanaṁ chindatha mā rukkhaṁ,  
 vanato jāyate bhayaṁ;  
 Chetvā vanañca vanathañca,  
@@ -7468,6 +8373,23 @@ Cut down the jungle, not just a tree;
 from the jungle springs fear.  
 Having cut down jungle and vine,  
 be free of jungles, mendicants!  
+  
+    Vanaṁ chindatha mā rukkhaṁ, vanato jāyate bhayaṁ;
+        Vanaṁ: jungle, forest (symbolic of defilements or distractions)
+        chindatha: cut down, chop
+        mā: not, don't
+        rukkhaṁ: a tree (a single defilement or distraction)
+        vanato: from the jungle, from the forest
+        jāyate: springs, arises
+        bhayaṁ: fear, danger
+
+    Chetvā vanañca vanathañca, nibbanā hotha bhikkhavo.
+        Chetvā: having cut down, chopping
+        vanañca: and the jungle, and the forest
+        vanathañca: and the vine (additional defilements or distractions)
+        nibbanā: be free, be extinguished (referring to the state of Nibbana)
+        hotha: be, become
+        bhikkhavo: mendicants, monks
   
 Yāva hi vanatho na chijjati,  
 Aṇumattopi narassa nārisu;  
@@ -7479,6 +8401,24 @@ that ties a man to women is not cut,
 his mind remains trapped,  
 like a calf suckling its mother.  
   
+    Yāva hi vanatho na chijjati, Aṇumattopi narassa nārisu;
+        Yāva: so long as, as long as
+        hi: indeed, certainly
+        vanatho: vine (symbolic of attachments)
+        na: not
+        chijjati: is cut, is severed
+        Aṇumattopi: even a small, even the slightest
+        narassa: of a man
+        nārisu: in women, towards women
+
+    Paṭibaddhamanova tāva so, Vaccho khīrapakova mātari.
+        Paṭibaddhamanova: remains trapped, remains bound
+        tāva: thus, therefore
+        so: his, his own
+        Vaccho: calf (a young cow)
+        khīrapakova: suckling, feeding on milk
+        mātari: its mother, mother
+  
 Ucchinda sinehamattano,  
 Kumudaṁ sāradikaṁva pāṇinā;  
 Santimaggameva brūhaya,  
@@ -7488,6 +8428,20 @@ Cut out fondness for oneself,
 like plucking an autumn lotus.  
 Foster only the path to peace,  
 the quenching the Holy One taught.  
+  
+    Ucchinda sinehamattano, Kumudaṁ sāradikaṁva pāṇinā;
+        Ucchinda: cut out, remove
+        sinehamattano: fondness for oneself, self-love
+        Kumudaṁ: an autumn lotus
+        sāradikaṁva: as if, like, similar to
+        pāṇinā: with hand, by the hand
+
+    Santimaggameva brūhaya, Nibbānaṁ sugatena desitaṁ.
+        Santimaggameva: only the path to peace, the peaceful path indeed
+        brūhaya: foster, cultivate, promote
+        Nibbānaṁ: quenching, cessation (a state of liberation in Buddhism)
+        sugatena: by the Holy One, by the well-gone one
+        desitaṁ: taught, instructed
   
 Idha vassaṁ vasissāmi,  
 idha hemantagimhisu;  
@@ -7499,6 +8453,20 @@ here for winter, here the summer”;
 thus the fool thinks,  
 not realizing the danger.  
   
+    Ucchinda sinehamattano, Kumudaṁ sāradikaṁva pāṇinā;
+        Ucchinda: cut out, remove
+        sinehamattano: fondness for oneself, self-love
+        Kumudaṁ: an autumn lotus
+        sāradikaṁva: as if, like, similar to
+        pāṇinā: with hand, by the hand
+
+    Santimaggameva brūhaya, Nibbānaṁ sugatena desitaṁ.
+        Santimaggameva: only the path to peace, the peaceful path indeed
+        brūhaya: foster, cultivate, promote
+        Nibbānaṁ: quenching, cessation (a state of liberation in Buddhism)
+        sugatena: by the Holy One, by the well-gone one
+        desitaṁ: taught, instructed
+  
 Taṁ puttapasusammattaṁ,  
 byāsattamanasaṁ naraṁ;  
 Suttaṁ gāmaṁ mahoghova,  
@@ -7508,6 +8476,20 @@ As a mighty flood sweeps away a sleeping village,
 death steals away a man  
 who dotes on children and cattle,  
 his mind caught up in them.  
+  
+    Taṁ puttapasusammattaṁ, byāsattamanasaṁ naraṁ;
+        Taṁ: that, him
+        puttapasusammattaṁ: infatuated with children and cattle
+        byāsattamanasaṁ: his mind being attached or obsessed
+        naraṁ: man, person
+
+    Suttaṁ gāmaṁ mahoghova, maccu ādāya gacchati.
+        Suttaṁ: sleeping
+        gāmaṁ: village
+        mahoghova: like a great flood
+        maccu: death
+        ādāya: having taken, carrying away
+        gacchati: goes, leaves
   
 Na santi puttā tāṇāya,  
 na pitā nāpi bandhavā;  
@@ -7519,6 +8501,22 @@ nor does father, nor relatives.
 When you’re seized by the terminator,  
 there’s no shelter in family.  
   
+    Na santi puttā tāṇāya, na pitā nāpi bandhavā;
+        Na: not
+        santi: are, exist
+        puttā: children, sons
+        tāṇāya: for refuge, for protection
+        na: not
+        pitā: father
+        nāpi: nor
+        bandhavā: relatives, kinsmen
+
+    Antakenādhipannassa, natthi ñātīsu tāṇatā.
+        Antakenādhipannassa: for one overtaken by death
+        natthi: there is not, does not exist
+        ñātīsu: in relatives, in family
+        tāṇatā: refuge, protection
+  
 Etamatthavasaṁ ñatvā,  
 paṇḍito sīlasaṁvuto;  
 Nibbānagamanaṁ maggaṁ,  
@@ -7529,7 +8527,23 @@ Knowing the reason for this,
 astute, and ethically restrained,  
 one would quickly clear the path  
 that leads to extinguishment.  
+  
+    Etamatthavasaṁ ñatvā, paṇḍito sīlasaṁvuto;
+        Etamatthavasaṁ: this matter, this purpose
+        ñatvā: knowing, having understood
+        paṇḍito: the wise one, the intelligent
+        sīlasaṁvuto: well restrained in virtue, ethically restrained
 
+    Nibbānagamanaṁ maggaṁ, khippameva visodhaye.
+        Nibbānagamanaṁ: leading to extinguishment (nirvana)
+        maggaṁ: the path
+        khippameva: quickly indeed, at once
+        visodhaye: should purify, should clear
+
+    Maggavaggo vīsatimo.
+        Maggavaggo: The Path chapter
+        vīsatimo: the twentieth
+  
 ### 21. Pakiṇṇakavagga: Miscellaneous
 
 Mattāsukhapariccāgā,  
@@ -7542,6 +8556,21 @@ one sees abundant happiness,
 a wise one would give up material happiness,  
 seeing the abundant happiness.  
   
+    Mattāsukhapariccāgā, passe ce vipulaṁ sukhaṁ;
+        Mattāsukhapariccāgā: giving up small happiness, renunciation of lesser pleasure
+        passe: one sees
+        ce: if
+        vipulaṁ: abundant, greater
+        sukhaṁ: happiness, pleasure
+
+    Caje mattāsukhaṁ dhīro, sampassaṁ vipulaṁ sukhaṁ.
+        Caje: he should renounce, gives up
+        mattāsukhaṁ: small happiness, lesser pleasure
+        dhīro: the wise one, the intelligent
+        sampassaṁ: seeing, beholding
+        vipulaṁ: abundant, greater
+        sukhaṁ: happiness, pleasure
+  
 Paradukkhūpadhānena,  
 attano sukhamicchati;  
 Verasaṁsaggasaṁsaṭṭho,  
@@ -7552,6 +8581,18 @@ by imposing suffering on others.
 Living intimate with enmity,  
 they’re not freed from enmity.  
   
+    Paradukkhūpadhānena, attano sukhamicchati;
+        Paradukkhūpadhānena: by causing suffering to others, causing the pain of others
+        attano: one's own, self's
+        sukhamicchati: wishes happiness, desires pleasure
+
+    Verasaṁsaggasaṁsaṭṭho, verā so na parimuccati.
+        Verasaṁsaggasaṁsaṭṭho: bonded with the relinquishing of hatred, bound by hatred's release
+        verā: from hatred, from enmity
+        so: he
+        na: not
+        parimuccati: is released, is freed
+  
 Yañhi kiccaṁ apaviddhaṁ,  
 akiccaṁ pana karīyati;  
 Unnaḷānaṁ pamattānaṁ,  
@@ -7561,6 +8602,21 @@ They disregard what should be done,
 and do what should not be done.  
 For the insolent and the negligent,  
 their defilements only grow.  
+  
+    Yañhi kiccaṁ apaviddhaṁ, akiccaṁ pana karīyati;
+        Yañhi: because
+        kiccaṁ: what should be done, the duty
+        apaviddhaṁ: disregarded, abandoned
+        akiccaṁ: what should not be done
+        pana: and
+        karīyati: is done, is being done
+
+    Unnaḷānaṁ pamattānaṁ, tesaṁ vaḍḍhanti āsavā.
+        Unnaḷānaṁ: of the arrogant, of the conceited
+        pamattānaṁ: the negligent, the heedless
+        tesaṁ: their
+        vaḍḍhanti: increase, grow
+        āsavā: defilements, taints
   
 Yesañca susamāraddhā,  
 niccaṁ kāyagatā sati;  
@@ -7576,6 +8632,28 @@ but always do what should be done.
 Mindful and aware,  
 their defilements come to an end.  
   
+    Yesañca susamāraddhā, niccaṁ kāyagatā sati;
+        Yesañca: of those who
+        susamāraddhā: have well begun, have rightly undertaken
+        niccaṁ: constantly
+        kāyagatā: gone to the body
+        sati: mindfulness
+
+    Akiccaṁ te na sevanti, kicce sātaccakārino;
+        Akiccaṁ: what should not be done
+        te: they
+        na: not
+        sevanti: cultivate, follow
+        kicce: what should be done
+        sātaccakārino: doing promptly, doing in due course
+
+    Satānaṁ sampajānānaṁ, atthaṁ gacchanti āsavā.
+        Satānaṁ: of the mindful
+        sampajānānaṁ: of those understanding clearly
+        atthaṁ: end
+        gacchanti: they go, they proceed
+        āsavā: defilements, taints
+  
 Mātaraṁ pitaraṁ hantvā,  
 rājāno dve ca khattiye;  
 Raṭṭhaṁ sānucaraṁ hantvā,  
@@ -7585,6 +8663,23 @@ Having slain mother and father,
 and two aristocratic kings,  
 and having wiped out the kingdom with its subjects,  
 the brahmin walks on without worry.  
+  
+    Mātaraṁ pitaraṁ hantvā, rājāno dve ca khattiye;
+        Mātaraṁ: mother
+        pitaraṁ: father
+        hantvā: having slain, having killed
+        rājāno: kings
+        dve: two
+        ca: and
+        khattiye: kshatriyas (aristocratic or warrior class in ancient India)
+
+    Raṭṭhaṁ sānucaraṁ hantvā, anīgho yāti brāhmaṇo.
+        Raṭṭhaṁ: kingdom
+        sānucaraṁ: with its subjects, with its followers
+        hantvā: having slain, having killed
+        anīgho: without worry, unhindered
+        yāti: walks, goes
+        brāhmaṇo: the brahmin (priestly or scholarly class in ancient India)
   
 Mātaraṁ pitaraṁ hantvā,  
 rājāno dve ca sotthiye;  
@@ -7596,6 +8691,22 @@ and two aristocratic kings,
 and a tiger as the fifth,  
 the brahmin walks on without worry.  
   
+    Mātaraṁ pitaraṁ hantvā, rājāno dve ca sotthiye;
+        Mātaraṁ: mother
+        pitaraṁ: father
+        hantvā: having slain, having killed
+        rājāno: kings
+        dve: two
+        ca: and
+        sotthiye: safe, secure, prosperous (This word isn't usually used to refer to "kings" but its exact meaning in this context might depend on the original text.)
+
+    Veyagghapañcamaṁ hantvā, anīgho yāti brāhmaṇo.
+        Veyagghapañcamaṁ: tiger as the fifth
+        hantvā: having slain, having killed
+        anīgho: without worry, unhindered
+        yāti: walks, goes
+        brāhmaṇo: the brahmin (priestly or scholarly class in ancient India)
+  
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
 Yesaṁ divā ca ratto ca,  
@@ -7605,6 +8716,22 @@ The disciples of Gotama
 always wake up refreshed,  
 who day and night  
 constantly recollect the Buddha.  
+  
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, niccaṁ buddhagatā sati.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        niccaṁ: constantly
+        buddhagatā: going to the Buddha, recollecting the Buddha
+        sati: mindfulness
   
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
@@ -7616,6 +8743,22 @@ always wake up refreshed,
 who day and night  
 constantly recollect the teaching.  
   
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, niccaṁ dhammagatā sati.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        niccaṁ: constantly
+        dhammagatā: going to the dhamma, recollecting the dhamma (teaching)
+        sati: mindfulness
+  
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
 Yesaṁ divā ca ratto ca,  
@@ -7625,6 +8768,22 @@ The disciples of Gotama
 always wake up refreshed,  
 who day and night  
 constantly recollect the Saṅgha.  
+  
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, niccaṁ saṅghagatā sati.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        niccaṁ: constantly
+        saṅghagatā: going to the Saṅgha, recollecting the Saṅgha (monastic community)
+        sati: mindfulness
   
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
@@ -7636,6 +8795,22 @@ always wake up refreshed,
 who day and night  
 are constantly mindful of the body.  
   
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, niccaṁ kāyagatā sati.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        niccaṁ: constantly
+        kāyagatā: going to the body, recollecting the body
+        sati: mindfulness
+  
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
 Yesaṁ divā ca ratto ca,  
@@ -7646,6 +8821,22 @@ always wake up refreshed,
 whose minds day and night  
 delight in harmlessness.  
   
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, ahiṁsāya rato mano.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        ahiṁsāya: in non-harming, harmlessness
+        rato: delight, pleased with
+        mano: mind
+  
 Suppabuddhaṁ pabujjhanti,  
 sadā gotamasāvakā;  
 Yesaṁ divā ca ratto ca,  
@@ -7655,6 +8846,22 @@ The disciples of Gotama
 always wake up refreshed,  
 whose minds day and night  
 delight in meditation.  
+  
+    Suppabuddhaṁ pabujjhanti, sadā gotamasāvakā;
+        Suppabuddhaṁ: well-awake, refreshed
+        pabujjhanti: they wake up
+        sadā: always
+        gotamasāvakā: disciples of Gotama (Buddha)
+
+    Yesaṁ divā ca ratto ca, bhāvanāya rato mano.
+        Yesaṁ: whose
+        divā: day
+        ca: and
+        ratto: night
+        ca: and
+        bhāvanāya: in meditation, development, cultivation
+        rato: delight, pleased with
+        mano: mind
   
 Duppabbajjaṁ durabhiramaṁ,  
 Durāvāsā gharā dukhā;  
@@ -7670,6 +8877,27 @@ A traveler is a prey to pain,
 so don’t be a traveler,  
 don’t be prey to pain.  
   
+    Duppabbajjaṁ durabhiramaṁ, Durāvāsā gharā dukhā;
+        Duppabbajjaṁ: difficult-going-forth (renouncing worldly life)
+        durabhiramaṁ: hard to enjoy, difficult to delight in
+        Durāvāsā: difficult living (hard life)
+        gharā: house, home
+        dukhā: painful, causing suffering
+
+    Dukkhosamānasaṁvāso, Dukkhānupatitaddhagū;
+        Dukkhosamānasaṁvāso: painful cohabitation, suffering companionship
+        Dukkhānupatitaddhagū: suffering following, painful to be pursued by
+
+    Tasmā na caddhagū siyā, Na ca dukkhānupatito siyā.
+        Tasmā: therefore
+        na: not
+        caddhagū: be a traveler
+        siyā: should be
+        Na: not
+        ca: and
+        dukkhānupatito: prey to suffering, pursued by pain
+        siyā: should be
+  
 Saddho sīlena sampanno,  
 yasobhogasamappito;  
 Yaṁ yaṁ padesaṁ bhajati,  
@@ -7679,6 +8907,20 @@ One who is faithful, accomplished in ethics,
 blessed with fame and wealth,  
 is honored in whatever place  
 they frequent.  
+  
+    Saddho sīlena sampanno, yasobhogasamappito;
+        Saddho: faithful, one with faith
+        sīlena: with ethical conduct, virtue
+        sampanno: accomplished, endowed
+        yasobhogasamappito: endowed with fame and wealth (yasobhoga = fame and wealth, samappito = endowed with)
+
+    Yaṁ yaṁ padesaṁ bhajati, tattha tattheva pūjito.
+        Yaṁ yaṁ: whatever, whichever
+        padesaṁ: place, region
+        bhajati: he frequents, visits regularly
+        tattha: there, at that place
+        tattheva: exactly there
+        pūjito: honored, respected, worshiped
   
 Dūre santo pakāsenti,  
 himavantova pabbato;  
@@ -7690,6 +8932,22 @@ like the Himalayan peaks,
 but the wicked are not seen,  
 like arrows scattered in the night.  
   
+    Dūre santo pakāsenti, himavantova pabbato;
+        Dūre: from afar, at a distance
+        santo: the good, virtuous ones
+        pakāsenti: shine, appear, illuminate
+        himavantova: like the Himalayan
+        pabbato: mountain, peak
+
+    Asantettha na dissanti, rattiṁ khittā yathā sarā.
+        Asantettha: the wicked ones, non-virtuous ones
+        na: not
+        dissanti: are seen, visible
+        rattiṁ: in the night, during night
+        khittā: scattered, thrown
+        yathā: like, as
+        sarā: arrows
+  
 Ekāsanaṁ ekaseyyaṁ,  
 eko caramatandito;  
 Eko damayamattānaṁ,  
@@ -7700,7 +8958,18 @@ Sitting alone, sleeping alone,
 tirelessly wandering alone;  
 one who tames themselves alone  
 would delight within a forest.  
-
+  
+    "Ekāsanaṁ" is composed of "eka" (one) and "āsanaṁ" (sitting), so it translates as "sitting alone".
+    "ekaseyyaṁ" is made of "eka" (one) and "seyyaṁ" (lying down, sleeping), so it translates as "sleeping alone".
+    "eko" (one or alone)
+    "caramatandito" is a compound of "cara" (wandering) and "atandito" (tirelessly), so it translates as "tirelessly wandering alone".
+    "Eko" (one or alone)
+    "damayamattānaṁ" is a compound of "dama" (taming or self-control) and "attānaṁ" (self), so it translates as "taming themselves alone".
+    "vanante" is composed of "vana" (forest) and "ante" (within), so it translates as "within a forest".
+    "ramito" (delighting), "siyā" (would be).
+    "Pakiṇṇakavaggo" is a compound of "pakiṇṇaka" (miscellaneous) and "vaggo" (chapter), so it translates as "The Miscellaneous Chapter".
+    "ekavīsatimo" (twenty-first).
+  
 ### 22. Nirayavagga: Hell
 
 Abhūtavādī nirayaṁ upeti,  
